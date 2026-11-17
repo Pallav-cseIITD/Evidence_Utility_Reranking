@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "experiment": "hotpot_additional_readers",
+  "dataset": "HotpotQA",
+  "evaluation_questions": 128,
+  "reuse_primary_evaluation_questions": true,
+  "retrain_selector": false,
+  "methods": [
+    "fusion_top5",
+    "fusion_scalar",
+    "dense_mmr_0.8",
+    "relevance_ce_top5",
+    "independent",
+    "submodular_coverage_top5",
+    "forced_repair",
+    "fusion_reverse",
+    "repair_reverse"
+  ],
+  "readers": {
+    "A": {
+      "id": "Qwen/Qwen3-14B",
+      "revision": "40c069824f4251a91eefaf281ebe4c544efd3e18",
+      "chat_template_kwargs": {"enable_thinking": false}
+    },
+    "B": {
+      "id": "microsoft/phi-4",
+      "revision": "2db69c1c3e91a05d2c64a3185acfbaf36f744e25",
+      "chat_template_kwargs": {}
+    }
+  },
+  "loading": {
+    "a100_dtype": "bfloat16",
+    "v100_dtype": "float16",
+    "trust_remote_code": false,
+    "attention_implementation": "sdpa"
+  },
+  "generation": {
+    "seed": 17,
+    "do_sample": false,
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "top_k": 50,
+    "min_p": null,
+    "typical_p": 1.0,
+    "repetition_penalty": 1.0,
+    "num_beams": 1,
+    "num_return_sequences": 1,
+    "max_input_tokens": 4096,
+    "max_new_tokens": 1024,
+    "max_evidence_tokens": 1536,
+    "structured_json": true
+  },
+  "qualification": {
+    "original_controls": 24,
+    "minimum_exact_answer_and_citation_passes": 22,
+    "negative_controls": 12,
+    "all_negative_controls_must_pass": true,
+    "join_controls": 4,
+    "all_join_controls_must_pass": true,
+    "all_outputs_valid_and_uncapped": true,
+    "expanded_answer_type_controls": 12,
+    "original_gate_failure_action": "Stop before natural question evaluation",
+    "expanded_gate_failure_action": "Retain subsequent results as diagnostic only"
+  },
+  "scoring": {
+    "primary_metric": "attributed_em",
+    "primary_comparison": ["fusion_scalar", "fusion_top5"],
+    "invalid_or_capped_output_score": 0
+  },
+  "statistics": {
+    "paired_test": "Exact two sided McNemar test",
+    "bootstrap_samples": 10000,
+    "bootstrap_seed": 20261117,
+    "bootstrap_confidence": 0.95,
+    "other_comparisons": "exploratory"
+  }
+}

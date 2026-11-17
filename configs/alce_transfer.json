@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "experiment": "alce_qampari_source_reader_transfer",
+  "dataset": "ALCE QAMPARI released evaluation collection",
+  "question_counts": {
+    "training_selected": 128,
+    "calibration": 40,
+    "evaluation": 100,
+    "stability_pilot_within_training": 32
+  },
+  "retrieval": {
+    "source": "Official ALCE GTR top 100 release",
+    "candidate_pool_size": 50,
+    "selected_passages": 5,
+    "starting_method": "gtr_top5",
+    "maximum_passage_tokens_under_both_readers": 300,
+    "use_release_summaries_or_extractions": false
+  },
+  "readers": {
+    "A": {
+      "id": "Qwen/Qwen3-14B",
+      "revision": "40c069824f4251a91eefaf281ebe4c544efd3e18",
+      "chat_template_kwargs": {"enable_thinking": false}
+    },
+    "B": {
+      "id": "microsoft/phi-4",
+      "revision": "2db69c1c3e91a05d2c64a3185acfbaf36f744e25",
+      "chat_template_kwargs": {}
+    }
+  },
+  "citation_support_model": {
+    "id": "google/t5_xxl_true_nli_mixture",
+    "revision": "aa6cfe1dd4257853bfdd772992045f41bfc14988"
+  },
+  "generation": {
+    "label_seeds": [17, 29],
+    "label_sampling": {"do_sample": true, "temperature": 0.3, "top_p": 0.95, "top_k": 0},
+    "evaluation_seed": 17,
+    "evaluation_sampling": {"do_sample": false, "temperature": 1.0, "top_p": 1.0, "top_k": 50},
+    "num_beams": 1,
+    "num_return_sequences": 1,
+    "max_input_tokens": 4096,
+    "max_new_tokens": 512,
+    "max_evidence_tokens": 1536,
+    "structured_json": true
+  },
+  "qualification": {
+    "original_controls": 24,
+    "minimum_exact_answer_and_citation_passes": 22,
+    "negative_controls": 12,
+    "all_negative_controls_must_pass": true,
+    "join_controls": 4,
+    "all_join_controls_must_pass": true,
+    "all_outputs_valid_and_uncapped": true,
+    "failure_action": "Stop before natural question evaluation"
+  },
+  "labels": {
+    "source_reader": "A",
+    "proposals_per_training_question": 4,
+    "utility_components": ["Official ALCE F1-5", "Official ALCE citation recall"],
+    "utility_combination": "Harmonic mean per response on a zero to 100 scale",
+    "utility_change": "Edited evidence utility minus original evidence utility at the same seed",
+    "ordinary_target": "Mean of the two utility changes",
+    "conservative_target": "Minimum of the two utility changes",
+    "exclude_training_action_if_any_source_output_invalid": true,
+    "use_reader_B_for_training_or_calibration": false
+  },
+  "selectors": {
+    "names": ["mean_set", "conservative_set", "conservative_independent"],
+    "model": "Ridge regression",
+    "penalty": 1.0,
+    "equal_total_weight_per_training_question": true,
+    "penalize_intercept": false,
+    "features": 43,
+    "incoming_only_features": 11,
+    "inference_replacements_before_token_filter": 225,
+    "threshold_grid": [0.0, 0.5, 1.0, 2.0, 5.0, 10.0, 20.0, null],
+    "calibration_reader": "A",
+    "calibration_seeds": [17, 29],
+    "calibration_objective": "Mean source reader utility improvement",
+    "calibration_tie_break": ["Fewer edits", "Higher threshold"],
+    "maximum_replacements": 1,
+    "preserve_starting_token_budget_under_both_readers": true
+  },
+  "baselines": ["gtr_top5", "ce_top5", "mmr_0.5", "coverage"],
+  "statistics": {
+    "primary_reader": "B",
+    "primary_metric": "Combined answer and citation utility",
+    "primary_selector": "conservative_set",
+    "baseline_selection_reader": "A",
+    "bootstrap_samples": 10000,
+    "sign_flip_samples": 20000,
+    "seed": 20261117,
+    "stability_tie_margin": 1.0,
+    "exclude_double_ties_from_informative_agreement": true,
+    "other_comparisons": "exploratory"
+  }
+}

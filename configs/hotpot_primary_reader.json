@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "experiment": "hotpot_primary_reader",
+  "dataset": "HotpotQA",
+  "evaluation_questions": 128,
+  "methods": [
+    "fusion_top5",
+    "fusion_scalar",
+    "dense_mmr_0.8",
+    "relevance_ce_top5",
+    "independent"
+  ],
+  "reader": {
+    "id": "Qwen/Qwen3-8B",
+    "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+    "precision": "nf4_4bit",
+    "chat_template_kwargs": {"enable_thinking": false}
+  },
+  "generation": {
+    "seed": 20261106,
+    "do_sample": false,
+    "temperature": 1.0,
+    "top_p": 1.0,
+    "top_k": 50,
+    "repetition_penalty": 1.0,
+    "num_beams": 1,
+    "num_return_sequences": 1,
+    "max_input_tokens": 4096,
+    "max_new_tokens": 1024,
+    "max_evidence_tokens": 1536,
+    "structured_json": true
+  },
+  "qualification": {
+    "original_controls": 24,
+    "minimum_exact_answer_and_citation_passes": 22,
+    "negative_controls": 12,
+    "all_negative_controls_must_pass": true,
+    "join_controls": 4,
+    "all_join_controls_must_pass": true,
+    "expanded_answer_type_controls": 12,
+    "all_expanded_controls_must_pass": true,
+    "all_outputs_valid_and_uncapped": true,
+    "failure_action": "Stop before natural question evaluation"
+  },
+  "scoring": {
+    "primary_metric": "attributed_em",
+    "primary_comparison": ["fusion_scalar", "fusion_top5"],
+    "answer_metric": "Normalized HotpotQA exact match",
+    "attribution": "Correct answer with all benchmark supporting facts in the cited passages",
+    "invalid_or_capped_output_score": 0
+  },
+  "statistics": {
+    "paired_test": "Exact two sided test on discordant binary outcomes",
+    "bootstrap_samples": 10000,
+    "bootstrap_seed": 20261116,
+    "bootstrap_confidence": 0.95,
+    "other_comparisons": "exploratory"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "description": "Prepared HotpotQA inputs used to fit the final fusion initialized repair selector",
+  "input_sha256": {
+    "pools.json": "ec91f4c2568a863ac716a13df4505cf0b8fba588a58a385e9eeccf93a8a20daf",
+    "features.json": "a8ae3b9b9616af4b4a973a115d79adc3edac7492951916bdd33fa9bc9632de58",
+    "train_references.json": "5c89e58012f6f943dd2beff8ac9f7f0bdd1950ba895a470ef2e23d9a398eec22",
+    "cohort_freeze.json": "4dd1aca93220dc9b36024ecf4a0635e65feadd520cb84e411ad840a1f82876e6",
+    "validation_references.json": "c88f1fac428d97a183909eb6b0139593bfdab04dccdcfd2dec88c0f1f1f20647"
+  },
+  "tokenizer_sha256": [
+    "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+    "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+  ],
+  "question_counts": {
+    "train": 512,
+    "validation": 128
+  },
+  "train_sampling_per_question": {
+    "clean_gain": 4,
+    "harm": 4,
+    "neutral": 4
+  },
+  "model": {
+    "seed": 17,
+    "hidden": 32,
+    "epochs": 60
+  },
+  "threshold_grid": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.3,
+    0.5,
+    0.75,
+    1.0,
+    null
+  ]
+}
