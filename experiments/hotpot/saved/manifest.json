@@ -1,0 +1,18 @@
+{
+  "files": {
+    "expected_results.json": "1d1f7347c074bc144e57da249f6c7b517c5367f1fdfb069144721aa41627b87d",
+    "qualification.json": "9d19a28eb4bb1ba3c632aba329234014f681bc34eb2d90c9f943a7cbfead5517",
+    "reader_outputs.jsonl": "9fda4ba51e7d396e0a65b4845a7371ba29d10aa4c40ace5d598ec0a15dbb5c32",
+    "selections.json": "1c6c668b24971049516e2ecd564cf41b049bda44b59c43d2d6ee8977201f975d"
+  },
+  "data_sha256": {
+    "pools.json": "06d256450604d6e01ddeb09c03b16496762640fbe674bf298df6aaffb88e7a47",
+    "features.json": "fb4c9a549946390b0004750ed8d9153accbcae9beb2d479792bc345f7178fba0",
+    "references.json": "5bf275e8f7500b09a1838f50cb4e5f6d1edd8be12b6414d97e7423bcf0f4096d",
+    "selections.json": "11355fd88abc73d1aa850f17a324774e1880b71e2ddb2806ac5ace68a46262e9"
+  },
+  "source_runs": {
+    "primary": "cc8aae0aeeab335cf8132fa012154a2477feebdccf6d79b47450d105fad7f3df",
+    "additional": "6ab7d1e9bf87477a43ae162d71f5e0f52babe73c2cd39a80322d6777612ee595"
+  }
+}

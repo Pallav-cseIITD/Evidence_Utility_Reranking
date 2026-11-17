@@ -1,0 +1,6242 @@
+{
+  "595__wikidata_simple__dev|mean_set|17": {
+    "qid": "595__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      26
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d70a8f25edd76a74ef7866e01bab110d5b6fca1660a59b6ac5d8272f464807e2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 83.33333333333334,
+      "qampari_rec": 83.33333333333334,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333334,
+      "qampari_f1_top5": 90.9090909090909,
+      "citation_rec": 100.0,
+      "citation_prec": 52.94117647058824,
+      "utility": 95.23809523809523
+    }
+  },
+  "595__wikidata_simple__dev|mean_set|29": {
+    "qid": "595__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      26
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "564a7a720a54124bb692676af46236817999d75862f98e174f9b6f7329879655",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 83.33333333333334,
+      "qampari_rec": 83.33333333333334,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333334,
+      "qampari_f1_top5": 90.9090909090909,
+      "citation_rec": 100.0,
+      "citation_prec": 52.94117647058824,
+      "utility": 95.23809523809523
+    }
+  },
+  "595__wikidata_simple__dev|conservative_set|17": {
+    "qid": "595__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      26
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d70a8f25edd76a74ef7866e01bab110d5b6fca1660a59b6ac5d8272f464807e2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 83.33333333333334,
+      "qampari_rec": 83.33333333333334,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333334,
+      "qampari_f1_top5": 90.9090909090909,
+      "citation_rec": 100.0,
+      "citation_prec": 52.94117647058824,
+      "utility": 95.23809523809523
+    }
+  },
+  "595__wikidata_simple__dev|conservative_set|29": {
+    "qid": "595__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      26
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "564a7a720a54124bb692676af46236817999d75862f98e174f9b6f7329879655",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 83.33333333333334,
+      "qampari_rec": 83.33333333333334,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333334,
+      "qampari_f1_top5": 90.9090909090909,
+      "citation_rec": 100.0,
+      "citation_prec": 52.94117647058824,
+      "utility": 95.23809523809523
+    }
+  },
+  "595__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "595__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "085b9846b882b2d48fb3b167449960c4d32304aa68ee8522a19a93118b814ffc",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 83.33333333333334,
+      "qampari_rec": 83.33333333333334,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333334,
+      "qampari_f1_top5": 90.9090909090909,
+      "citation_rec": 100.0,
+      "citation_prec": 76.92307692307693,
+      "utility": 95.23809523809523
+    }
+  },
+  "595__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "595__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "ec7e55473cf193afadf89c9760b308e1f3d70553036983ba202848aad80ffb2e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 83.33333333333334,
+      "qampari_rec": 83.33333333333334,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333334,
+      "qampari_f1_top5": 90.9090909090909,
+      "citation_rec": 100.0,
+      "citation_prec": 76.92307692307693,
+      "utility": 95.23809523809523
+    }
+  },
+  "551__wikitables_simple__dev|mean_set|17": {
+    "qid": "551__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      21,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "7d5d7698fe7b61df11a71d4b16c3d1113be5442e5968822c4ca6fdceb22d915f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 36.36363636363637,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 25.0,
+      "utility": 40.0
+    }
+  },
+  "551__wikitables_simple__dev|mean_set|29": {
+    "qid": "551__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      21,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "e3bcffc190fd4294712c5010816194a327fc60c682ed1a50805178b249dd59a3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 36.36363636363637,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 25.0,
+      "utility": 40.0
+    }
+  },
+  "551__wikitables_simple__dev|conservative_set|17": {
+    "qid": "551__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      21,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "7d5d7698fe7b61df11a71d4b16c3d1113be5442e5968822c4ca6fdceb22d915f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 36.36363636363637,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 25.0,
+      "utility": 40.0
+    }
+  },
+  "551__wikitables_simple__dev|conservative_set|29": {
+    "qid": "551__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      21,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "e3bcffc190fd4294712c5010816194a327fc60c682ed1a50805178b249dd59a3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 36.36363636363637,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 25.0,
+      "utility": 40.0
+    }
+  },
+  "551__wikitables_simple__dev|conservative_independent|17": {
+    "qid": "551__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      16,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "2590214197a518f3b3cf609e2d12b56b613135ac6f7fbdacd48765f3269b64d5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "551__wikitables_simple__dev|conservative_independent|29": {
+    "qid": "551__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      16,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "d5ddff0e01c759c88847b8180acd650346f65e15b81287765e931c809e0fa903",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "789__wikidata_simple__dev|mean_set|17": {
+    "qid": "789__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f94bfdb8d995abdc4bf949f6818a2f715afb0b4dc1e208443ef8886edf27c376",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "789__wikidata_simple__dev|mean_set|29": {
+    "qid": "789__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "20b1f9dd11a06ffc5e57117bc7475dea9ccc66c28b89872c34b306125d12fdef",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "789__wikidata_simple__dev|conservative_set|17": {
+    "qid": "789__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f94bfdb8d995abdc4bf949f6818a2f715afb0b4dc1e208443ef8886edf27c376",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "789__wikidata_simple__dev|conservative_set|29": {
+    "qid": "789__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "20b1f9dd11a06ffc5e57117bc7475dea9ccc66c28b89872c34b306125d12fdef",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "789__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "789__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      14,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d4144befc4e3e4b0c999efc83f092473a4d1732d6b01d5c0285d956a985ac17d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "789__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "789__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      14,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "c36723384c29163248a9ea1c6081e79c39cc94604dc88c19fa281802da2cb58c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "532__wikitables_simple__dev|mean_set|17": {
+    "qid": "532__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      25,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "2ca787f9416af8316c460bb22b8cdfa36f48000ba61b957b3d5ab32c18a6894e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 5.263157894736842,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 9.523809523809526,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "532__wikitables_simple__dev|mean_set|29": {
+    "qid": "532__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      25,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "349ae87104b42a2fdb14727737b37d6937105504bb4c4d2bf32a69b24983a50f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 5.263157894736842,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 9.523809523809526,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "532__wikitables_simple__dev|conservative_set|17": {
+    "qid": "532__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      25,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "2ca787f9416af8316c460bb22b8cdfa36f48000ba61b957b3d5ab32c18a6894e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 5.263157894736842,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 9.523809523809526,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "532__wikitables_simple__dev|conservative_set|29": {
+    "qid": "532__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      25,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "349ae87104b42a2fdb14727737b37d6937105504bb4c4d2bf32a69b24983a50f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 5.263157894736842,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 9.523809523809526,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "532__wikitables_simple__dev|conservative_independent|17": {
+    "qid": "532__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      25,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "ced9a8728f2b87e995f71c9b32ead44633915f0e76141ea7efa4f808c0bcd094",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 5.263157894736842,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 8.695652173913043,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "532__wikitables_simple__dev|conservative_independent|29": {
+    "qid": "532__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      25,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "f9c470ae2998279e130467fe0a1b12ea34ddda26ebeb151c04657895d2ec2b56",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 5.263157894736842,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 8.695652173913043,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "239__wikidata_comp__dev|mean_set|17": {
+    "qid": "239__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      49
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "c3a489f58cca6cf5df922690106c2637eac8556e681a12114fd40dd9e327c670",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "239__wikidata_comp__dev|mean_set|29": {
+    "qid": "239__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      49
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "1d24af788d8cfd06e300f9a01007f43881806c8053eee60d1b6627ff3084d794",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "239__wikidata_comp__dev|conservative_set|17": {
+    "qid": "239__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      49
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "c3a489f58cca6cf5df922690106c2637eac8556e681a12114fd40dd9e327c670",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "239__wikidata_comp__dev|conservative_set|29": {
+    "qid": "239__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      49
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "1d24af788d8cfd06e300f9a01007f43881806c8053eee60d1b6627ff3084d794",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "239__wikidata_comp__dev|conservative_independent|17": {
+    "qid": "239__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "bd9bf63a216e0eb04725c002cdc855c1d6e3b66c22c87004f14861429e8545c6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "239__wikidata_comp__dev|conservative_independent|29": {
+    "qid": "239__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "63b7e5871d1fcb443fb8a2f7ec3721e2c4e2c8a6ac2bf48d5e0581afe289736f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "622__wikidata_simple__dev|mean_set|17": {
+    "qid": "622__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      14,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "57fd8f04ff6b82095e7ab45edf62765d743338b013df713f060643f3bba328db",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "622__wikidata_simple__dev|mean_set|29": {
+    "qid": "622__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      14,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "4589ad4989872862c746c5917eb4e2aa512e53f73ab61d193320fb7576d09b71",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "622__wikidata_simple__dev|conservative_set|17": {
+    "qid": "622__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      14
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "22aac8ad526ff3d56b8d88dc08d74708723e352647159f8e9e290a8863a0283a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "622__wikidata_simple__dev|conservative_set|29": {
+    "qid": "622__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      14
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "574a350fcdd1024cfe90d2afc70c57880ffa710cbd3d420f8afd674f41eaa1a5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "622__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "622__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      14,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "57fd8f04ff6b82095e7ab45edf62765d743338b013df713f060643f3bba328db",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "622__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "622__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      14,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "4589ad4989872862c746c5917eb4e2aa512e53f73ab61d193320fb7576d09b71",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "589__wikidata_simple__dev|mean_set|17": {
+    "qid": "589__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      10
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "86e821c3786422dccef7ab914cf5cc02876c581c38433671e576d588d6ff8236",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "589__wikidata_simple__dev|mean_set|29": {
+    "qid": "589__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      10
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "78000b4ceb979e693b494c9509174608cfcd95daceea41485047ac7fb6860792",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "589__wikidata_simple__dev|conservative_set|17": {
+    "qid": "589__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      10
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "86e821c3786422dccef7ab914cf5cc02876c581c38433671e576d588d6ff8236",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "589__wikidata_simple__dev|conservative_set|29": {
+    "qid": "589__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      10
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "78000b4ceb979e693b494c9509174608cfcd95daceea41485047ac7fb6860792",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "589__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "589__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      22,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "497f57085235f5352d11693e29b8b6d7e3c76cbd78a8523b2655c4ef6a3a4959",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "589__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "589__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      22,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "b41788854ab82919f12db983a9c7d9b50510586761009db5d2244302c48534aa",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "969__wikidata_comp__dev|mean_set|17": {
+    "qid": "969__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      15,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "b79a93d0a461d5b5dc3af0c01327a3d79c44906c2c921537de2271140a815322",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "969__wikidata_comp__dev|mean_set|29": {
+    "qid": "969__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      15,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "976ab68cb26392e04ff18ebf463c01384cef0a877963387244f4a0f78cfefa5e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "969__wikidata_comp__dev|conservative_set|17": {
+    "qid": "969__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      15,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "b79a93d0a461d5b5dc3af0c01327a3d79c44906c2c921537de2271140a815322",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "969__wikidata_comp__dev|conservative_set|29": {
+    "qid": "969__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      15,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "976ab68cb26392e04ff18ebf463c01384cef0a877963387244f4a0f78cfefa5e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "969__wikidata_comp__dev|conservative_independent|17": {
+    "qid": "969__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      21,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "6ff65b3b456d3a3468b170dd121d15918f0af26ebf75ba512fbfed88d56e6ce5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "969__wikidata_comp__dev|conservative_independent|29": {
+    "qid": "969__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      21,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "5ed0203e6575b9b9950c6fa8d06a60cec2d2f9ed3a166d89ca0554fd3677c642",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "47__wikitables_composition__dev|mean_set|17": {
+    "qid": "47__wikitables_composition__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      10,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "0d6cf2eb6330b0569ab422f43bfca6bc33b8b8f8e45cfa2139fd40932b7670fc",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "47__wikitables_composition__dev|mean_set|29": {
+    "qid": "47__wikitables_composition__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      10,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "cca572ec3be1bf267c069af035b78144ab6ac6810c961deaefba2b6842acf684",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "47__wikitables_composition__dev|conservative_set|17": {
+    "qid": "47__wikitables_composition__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      10,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "0d6cf2eb6330b0569ab422f43bfca6bc33b8b8f8e45cfa2139fd40932b7670fc",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "47__wikitables_composition__dev|conservative_set|29": {
+    "qid": "47__wikitables_composition__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      10,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "cca572ec3be1bf267c069af035b78144ab6ac6810c961deaefba2b6842acf684",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "47__wikitables_composition__dev|conservative_independent|17": {
+    "qid": "47__wikitables_composition__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      35,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "6bbae8ad19cfbe82f53f97be0d12f0ffb959ef29e0c3d4d896272034d5af4668",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "47__wikitables_composition__dev|conservative_independent|29": {
+    "qid": "47__wikitables_composition__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      35,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "46c7ff9b00bb96a5410dfa5f0f094e002bda6c80b2ed38b1fffc7103d8a939d3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "684__wikidata_simple__dev|mean_set|17": {
+    "qid": "684__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      19,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "fe205d881262c1d87cc85cc9a3660148c21bcbda5207bbc36b6cd451355b2191",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 54.54545454545454,
+      "citation_rec": 16.666666666666664,
+      "citation_prec": 16.666666666666664,
+      "utility": 25.531914893617017
+    }
+  },
+  "684__wikidata_simple__dev|mean_set|29": {
+    "qid": "684__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      19,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "0815fe8d0522b57124438b79dacfffcfa5d8f79bcbbf0da847463245d5e27682",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 54.54545454545454,
+      "citation_rec": 16.666666666666664,
+      "citation_prec": 16.666666666666664,
+      "utility": 25.531914893617017
+    }
+  },
+  "684__wikidata_simple__dev|conservative_set|17": {
+    "qid": "684__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      19,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "fe205d881262c1d87cc85cc9a3660148c21bcbda5207bbc36b6cd451355b2191",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 54.54545454545454,
+      "citation_rec": 16.666666666666664,
+      "citation_prec": 16.666666666666664,
+      "utility": 25.531914893617017
+    }
+  },
+  "684__wikidata_simple__dev|conservative_set|29": {
+    "qid": "684__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      19,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "0815fe8d0522b57124438b79dacfffcfa5d8f79bcbbf0da847463245d5e27682",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 25.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 54.54545454545454,
+      "citation_rec": 16.666666666666664,
+      "citation_prec": 16.666666666666664,
+      "utility": 25.531914893617017
+    }
+  },
+  "684__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "684__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d010644a70bfacb090d4d28e09bd28d2473f52e9e35a5953807ac533a8652d4f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "684__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "684__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "fc734eeb4940490ff729e742312753e9153ff5c3da2fd80eb7d9afd4180d9de9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "52__wikitables_composition__dev|mean_set|17": {
+    "qid": "52__wikitables_composition__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      13
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f52cd635ddc4efef0a32fbd1907f06382b240ceb82198ec6d5bc6e1bf49e153f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "52__wikitables_composition__dev|mean_set|29": {
+    "qid": "52__wikitables_composition__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      13
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "de191c8d20c9753a669513d1668ee9bf5ca1832b705376699461ce0f72f1426d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "52__wikitables_composition__dev|conservative_set|17": {
+    "qid": "52__wikitables_composition__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      13
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f52cd635ddc4efef0a32fbd1907f06382b240ceb82198ec6d5bc6e1bf49e153f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "52__wikitables_composition__dev|conservative_set|29": {
+    "qid": "52__wikitables_composition__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      13
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "de191c8d20c9753a669513d1668ee9bf5ca1832b705376699461ce0f72f1426d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "52__wikitables_composition__dev|conservative_independent|17": {
+    "qid": "52__wikitables_composition__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      29,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d888d9e8bb50181a43ef5fb3c4603dd3a535c5bcaa5c40348726604d6a58164b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 16.666666666666664,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "52__wikitables_composition__dev|conservative_independent|29": {
+    "qid": "52__wikitables_composition__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      29,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "433f9aa1a1448b9b9407809ef1ab0652cc907de68c0bb6e4e2143471dee28ad4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 16.666666666666664,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "372__wikidata_intersection__dev|mean_set|17": {
+    "qid": "372__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "5e3546467a1ca29b7977db2c0c9c0a452c0b80cee8db0bde6198c1bd40d88746",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 9.090909090909092,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 14.285714285714288,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 33.33333333333333,
+      "utility": 28.57142857142857
+    }
+  },
+  "372__wikidata_intersection__dev|mean_set|29": {
+    "qid": "372__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "850b97bfb764716f23dd6f84da289223eca1d3c5f1b41161a56c2a5f53fe6e77",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 9.090909090909092,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 14.285714285714288,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 33.33333333333333,
+      "utility": 28.57142857142857
+    }
+  },
+  "372__wikidata_intersection__dev|conservative_set|17": {
+    "qid": "372__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "5e3546467a1ca29b7977db2c0c9c0a452c0b80cee8db0bde6198c1bd40d88746",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 9.090909090909092,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 14.285714285714288,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 33.33333333333333,
+      "utility": 28.57142857142857
+    }
+  },
+  "372__wikidata_intersection__dev|conservative_set|29": {
+    "qid": "372__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      9,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "850b97bfb764716f23dd6f84da289223eca1d3c5f1b41161a56c2a5f53fe6e77",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 9.090909090909092,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 14.285714285714288,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 33.33333333333333,
+      "utility": 28.57142857142857
+    }
+  },
+  "372__wikidata_intersection__dev|conservative_independent|17": {
+    "qid": "372__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      32,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "c9a99819a676ba231823236396d936d22d1612f39800d5a689b21afb9cd75120",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 9.090909090909092,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 13.333333333333334,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 50.0,
+      "citation_prec": 50.0,
+      "utility": 30.769230769230774
+    }
+  },
+  "372__wikidata_intersection__dev|conservative_independent|29": {
+    "qid": "372__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      32,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "977f284bea394e02b5a5bd981956b8cbe2a109e2916d4d75f6f6662d32f4a9a2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 9.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 27.27272727272727,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 30.0,
+      "qampari_f1_top5": 42.857142857142854,
+      "citation_rec": 22.22222222222222,
+      "citation_prec": 22.22222222222222,
+      "utility": 29.268292682926827
+    }
+  },
+  "661__wikidata_simple__dev|mean_set|17": {
+    "qid": "661__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      21
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "57acab88cea05e0c23ee65c026fd2458408511b9b6963ef388fbda286b5781ed",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "661__wikidata_simple__dev|mean_set|29": {
+    "qid": "661__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      21
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "01a0191eb1199c79ce082f5ecc426078a8c9b20e132e170860269a9ea67ffad2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "661__wikidata_simple__dev|conservative_set|17": {
+    "qid": "661__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      21
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "57acab88cea05e0c23ee65c026fd2458408511b9b6963ef388fbda286b5781ed",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "661__wikidata_simple__dev|conservative_set|29": {
+    "qid": "661__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      21
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "01a0191eb1199c79ce082f5ecc426078a8c9b20e132e170860269a9ea67ffad2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "661__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "661__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      8,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f0b45915b2ca18fcedad38df300832d6efffb90265d7615e4a4a739e938f3295",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "661__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "661__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      8,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "34afe8723c40a2b011dc9f0e70694ce85a788d2db268772e1a929aff45b538a7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1006__wikidata_comp__dev|mean_set|17": {
+    "qid": "1006__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      28,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "781c00ef1419d01c3213e9d6e213b3fc39c4bc895c27be5856a283089fb77558",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1006__wikidata_comp__dev|mean_set|29": {
+    "qid": "1006__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      28,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "2578b1eb882fae615fb847128b9ec69b85fd0ffd568b662956b35a43510203f5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1006__wikidata_comp__dev|conservative_set|17": {
+    "qid": "1006__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      28,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "781c00ef1419d01c3213e9d6e213b3fc39c4bc895c27be5856a283089fb77558",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1006__wikidata_comp__dev|conservative_set|29": {
+    "qid": "1006__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      28,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "2578b1eb882fae615fb847128b9ec69b85fd0ffd568b662956b35a43510203f5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1006__wikidata_comp__dev|conservative_independent|17": {
+    "qid": "1006__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      10,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "85b3226c933a225aec092d36752448be3466f74f65b61344c3e1186e243c073b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1006__wikidata_comp__dev|conservative_independent|29": {
+    "qid": "1006__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      10,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "ecb6b0aa4967106d4e95296c5d7b340d60e8045471b4b670880734ea32718a38",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "463__wikidata_intersection__dev|mean_set|17": {
+    "qid": "463__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "6fac6972ac1e7231c6ba5bbc0d0793e3f6ee2cebaede68724f5ce95c8be01f16",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "463__wikidata_intersection__dev|mean_set|29": {
+    "qid": "463__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "ae503b22b1a7b2b003046dc4b686a713f2fd50849e1031db09e1c5099ad2da6f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "463__wikidata_intersection__dev|conservative_set|17": {
+    "qid": "463__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "6fac6972ac1e7231c6ba5bbc0d0793e3f6ee2cebaede68724f5ce95c8be01f16",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "463__wikidata_intersection__dev|conservative_set|29": {
+    "qid": "463__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "ae503b22b1a7b2b003046dc4b686a713f2fd50849e1031db09e1c5099ad2da6f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "463__wikidata_intersection__dev|conservative_independent|17": {
+    "qid": "463__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      8
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "7066155f9643037e20f08131abbee96b77a935f12cc709459c6b9bedb1521034",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "463__wikidata_intersection__dev|conservative_independent|29": {
+    "qid": "463__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      8
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "0d436810d6c2e19cccd30a31dbc91264948ac661c964d0a1778b886b4bfeedbd",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "730__wikidata_simple__dev|mean_set|17": {
+    "qid": "730__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      22,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "e8208ae8b199fe517beebb876df8edbe8a8236933b7601cd4def1ab871f7a1f3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 50.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 0.0
+    }
+  },
+  "730__wikidata_simple__dev|mean_set|29": {
+    "qid": "730__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      22,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "0a03ce972573c7d22fe5283ef9c336ef6e59013ce5c740180be4772bfc7eaf02",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 50.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 0.0
+    }
+  },
+  "730__wikidata_simple__dev|conservative_set|17": {
+    "qid": "730__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      22,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "e8208ae8b199fe517beebb876df8edbe8a8236933b7601cd4def1ab871f7a1f3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 50.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 0.0
+    }
+  },
+  "730__wikidata_simple__dev|conservative_set|29": {
+    "qid": "730__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      22,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "0a03ce972573c7d22fe5283ef9c336ef6e59013ce5c740180be4772bfc7eaf02",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 50.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 0.0
+    }
+  },
+  "730__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "730__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      22,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "baf7b8603983010b7942e3a2710c7f02b12cd4cf8b0e5c026358b9177053b7f5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "730__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "730__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      22,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "114926c1c920658be2540b42481194a4bdc915c4541378a193ccf3d61ddfa526",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "489__wikitables_simple__dev|mean_set|17": {
+    "qid": "489__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      8,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "117c9b47ad5472127cba1a982f108c63247297c32bb45b93a60beb26089a6ce2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "489__wikitables_simple__dev|mean_set|29": {
+    "qid": "489__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      8,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "a151bd43bdc7c17834dd18f0d3511c2c5b9c8685b54bdc26eff79a3e228c67c6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "489__wikitables_simple__dev|conservative_set|17": {
+    "qid": "489__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      8,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "117c9b47ad5472127cba1a982f108c63247297c32bb45b93a60beb26089a6ce2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "489__wikitables_simple__dev|conservative_set|29": {
+    "qid": "489__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      8,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "a151bd43bdc7c17834dd18f0d3511c2c5b9c8685b54bdc26eff79a3e228c67c6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "489__wikitables_simple__dev|conservative_independent|17": {
+    "qid": "489__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      8,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "117c9b47ad5472127cba1a982f108c63247297c32bb45b93a60beb26089a6ce2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "489__wikitables_simple__dev|conservative_independent|29": {
+    "qid": "489__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      8,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "a151bd43bdc7c17834dd18f0d3511c2c5b9c8685b54bdc26eff79a3e228c67c6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "774__wikidata_simple__dev|mean_set|17": {
+    "qid": "774__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      12
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f8e90a71e0dafca6bd64700a4e742d4739c7801c5f15e3f48a56c0911cca9146",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "774__wikidata_simple__dev|mean_set|29": {
+    "qid": "774__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      12
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "812528499db4a6c04990cf38831d06d816025161ea89c83eac77fbb03b17dbd4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "774__wikidata_simple__dev|conservative_set|17": {
+    "qid": "774__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      12
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f8e90a71e0dafca6bd64700a4e742d4739c7801c5f15e3f48a56c0911cca9146",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "774__wikidata_simple__dev|conservative_set|29": {
+    "qid": "774__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      12
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "812528499db4a6c04990cf38831d06d816025161ea89c83eac77fbb03b17dbd4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "774__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "774__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      29,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "83b8b7601466cd020a6cca9ca56f8648eb70e3c0beeaa15dffc850c89fe71062",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "774__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "774__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      29,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "ac405d302e4c4f401cd7395a7e9e208fdea51535dcd437ddab6e28cb0c7bf944",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "874__wikidata_simple__dev|mean_set|17": {
+    "qid": "874__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      7
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "a0a698d95e87cc3fb5de3a8390f6da13dda13d8ab5da8237095bb93bd3972b13",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "874__wikidata_simple__dev|mean_set|29": {
+    "qid": "874__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      7
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "8fd5d9f312e9a75cff939a2b395f269ff4429a4261488b228d3eded0404beb98",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "874__wikidata_simple__dev|conservative_set|17": {
+    "qid": "874__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      7
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "a0a698d95e87cc3fb5de3a8390f6da13dda13d8ab5da8237095bb93bd3972b13",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "874__wikidata_simple__dev|conservative_set|29": {
+    "qid": "874__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      7
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "8fd5d9f312e9a75cff939a2b395f269ff4429a4261488b228d3eded0404beb98",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "874__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "874__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      40,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "3386a247a53db6136f73ea3e2ec5d4d76ad3ce1cce35000ff4ff7823bf0e96b5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "874__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "874__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      40,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "c70d2f7b8a23358f15c7d6373f8effa003349151226434cb5733ed1600f59bb9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "462__wikidata_intersection__dev|mean_set|17": {
+    "qid": "462__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      27,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "e9dc7747e90bdb0cfc7f2db16f11ef4950fce0572e5b658636edaaa1f6a1dd8e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "462__wikidata_intersection__dev|mean_set|29": {
+    "qid": "462__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      27,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "81e5e8911ebe7835550cbce8b1d5379dc1a04f5e186bdfe501e0eb740f72a071",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "462__wikidata_intersection__dev|conservative_set|17": {
+    "qid": "462__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      27,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "e9dc7747e90bdb0cfc7f2db16f11ef4950fce0572e5b658636edaaa1f6a1dd8e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "462__wikidata_intersection__dev|conservative_set|29": {
+    "qid": "462__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      27,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "81e5e8911ebe7835550cbce8b1d5379dc1a04f5e186bdfe501e0eb740f72a071",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "462__wikidata_intersection__dev|conservative_independent|17": {
+    "qid": "462__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      15,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "39a628116cfaba397e1f0a48adcc10cb271bbeed4b4a910d2e96d240136dd1c4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "462__wikidata_intersection__dev|conservative_independent|29": {
+    "qid": "462__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      15,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "6086e21aefb973f5a8a38790a22566c477f46e3e6796f753b2a91ee8019ab619",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "650__wikidata_simple__dev|mean_set|17": {
+    "qid": "650__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      6,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "74e01bea5d0288c2e9f91b663f380fe39e19001589fea4b2b2f97790aeb3b283",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 80.0,
+      "qampari_rec": 21.052631578947366,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 80.00000000000001,
+      "citation_rec": 80.0,
+      "citation_prec": 80.0,
+      "utility": 80.00000000000001
+    }
+  },
+  "650__wikidata_simple__dev|mean_set|29": {
+    "qid": "650__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      6,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "80eaca0a4b5b9404aeb8f3662fc238b749a567f758dd8ed246c7e7e59dece53f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 80.0,
+      "qampari_rec": 21.052631578947366,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 80.00000000000001,
+      "citation_rec": 80.0,
+      "citation_prec": 80.0,
+      "utility": 80.00000000000001
+    }
+  },
+  "650__wikidata_simple__dev|conservative_set|17": {
+    "qid": "650__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      6,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "74e01bea5d0288c2e9f91b663f380fe39e19001589fea4b2b2f97790aeb3b283",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 80.0,
+      "qampari_rec": 21.052631578947366,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 80.00000000000001,
+      "citation_rec": 80.0,
+      "citation_prec": 80.0,
+      "utility": 80.00000000000001
+    }
+  },
+  "650__wikidata_simple__dev|conservative_set|29": {
+    "qid": "650__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      6,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "80eaca0a4b5b9404aeb8f3662fc238b749a567f758dd8ed246c7e7e59dece53f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 80.0,
+      "qampari_rec": 21.052631578947366,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 80.00000000000001,
+      "citation_rec": 80.0,
+      "citation_prec": 80.0,
+      "utility": 80.00000000000001
+    }
+  },
+  "650__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "650__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      9,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "704c90c95b8a5ca7ba7e21d07f303cfa5e3d2c99d3de78bda44be2dfc2145c7c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 80.0,
+      "qampari_rec": 21.052631578947366,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 80.00000000000001,
+      "citation_rec": 80.0,
+      "citation_prec": 80.0,
+      "utility": 80.00000000000001
+    }
+  },
+  "650__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "650__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      9,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "f06ad26357eddd38bc7e3ea846ca700084575209b8029fc99f7a879cbfef3848",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 80.0,
+      "qampari_rec": 21.052631578947366,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 80.00000000000001,
+      "citation_rec": 80.0,
+      "citation_prec": 80.0,
+      "utility": 80.00000000000001
+    }
+  },
+  "758__wikidata_simple__dev|mean_set|17": {
+    "qid": "758__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      42,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "af9db7d42199e47d12e51c98e62e2ce61caae89aca6b017c284108d61d140f45",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "758__wikidata_simple__dev|mean_set|29": {
+    "qid": "758__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      42,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "5172129a3e07065d2c4f0832f1c6c1d4b401a8f2b70b711c2017bd0ecf616a6d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "758__wikidata_simple__dev|conservative_set|17": {
+    "qid": "758__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      42,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "af9db7d42199e47d12e51c98e62e2ce61caae89aca6b017c284108d61d140f45",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "758__wikidata_simple__dev|conservative_set|29": {
+    "qid": "758__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      42,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "5172129a3e07065d2c4f0832f1c6c1d4b401a8f2b70b711c2017bd0ecf616a6d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "758__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "758__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "5ad02f6ea9ab7406d4a65417940deccef5e773a723bdee9ed316808c1f103fb9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "758__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "758__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      6,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "6b639cc02c84c0042f24d70ecfd97687540e328f4bfede8dfe750532a63b00b0",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "692__wikidata_simple__dev|mean_set|17": {
+    "qid": "692__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      22
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "c40e32f81e5d008d92b6d86dd79e6bc72bd100008609e3eb523516bdf6d32792",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "692__wikidata_simple__dev|mean_set|29": {
+    "qid": "692__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      22
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "5531f863acbfe504c322e1fadc14674b769e4501d32d9e3eec416f933ea9e21b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "692__wikidata_simple__dev|conservative_set|17": {
+    "qid": "692__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      22
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "c40e32f81e5d008d92b6d86dd79e6bc72bd100008609e3eb523516bdf6d32792",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "692__wikidata_simple__dev|conservative_set|29": {
+    "qid": "692__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      22
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "5531f863acbfe504c322e1fadc14674b769e4501d32d9e3eec416f933ea9e21b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "692__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "692__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "c059feab4d37be492fa164afd83f5ac5d0de3e4e8c86a5c32ff3f98ce6ee4e4b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "692__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "692__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "d104fdbe51f34e48735b449eeec6d8e40cc9ed14e91d1cf78bf3484f1fc4e997",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "618__wikidata_simple__dev|mean_set|17": {
+    "qid": "618__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "5d5ee12aa5500d54a97871c1ffdce8605d8069786c1c8445dd803d63c76a7070",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "618__wikidata_simple__dev|mean_set|29": {
+    "qid": "618__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "003b13b28fa0135e41f5f17f2fb841a0bed9590cdaa72bb8591bc45aa9efa26a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "618__wikidata_simple__dev|conservative_set|17": {
+    "qid": "618__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "5d5ee12aa5500d54a97871c1ffdce8605d8069786c1c8445dd803d63c76a7070",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "618__wikidata_simple__dev|conservative_set|29": {
+    "qid": "618__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      7,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "003b13b28fa0135e41f5f17f2fb841a0bed9590cdaa72bb8591bc45aa9efa26a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "618__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "618__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "9523b95b7d7d7b8edf2838504e841641b7833e449686a9e614dab55cc4613871",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "618__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "618__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "5bce64282a61cf9cac2089231455df425ad2121a6827bb84717d5467d924e33e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "813__wikidata_simple__dev|mean_set|17": {
+    "qid": "813__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      9,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "6275842701b04012a99661ebccc09c0b4a30062be60d76a851ad9ec224cf65c1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "813__wikidata_simple__dev|mean_set|29": {
+    "qid": "813__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      9,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "2569432053ad92c79ff6dd327bc461950cb31e971033a5fc18186e043e4e7871",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "813__wikidata_simple__dev|conservative_set|17": {
+    "qid": "813__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      9,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "6275842701b04012a99661ebccc09c0b4a30062be60d76a851ad9ec224cf65c1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "813__wikidata_simple__dev|conservative_set|29": {
+    "qid": "813__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      9,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "2569432053ad92c79ff6dd327bc461950cb31e971033a5fc18186e043e4e7871",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "813__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "813__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      10,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "94170a35b8eb87e6f47a988d27acc32b16ed46de81e7f6a795e15d6c5dbbd13c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 28.57142857142857,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 33.33333333333333,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "813__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "813__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      10,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "1ef10bf41c240853b80a1c1a097a72e447c2229f9f1bab7aeab41de5731e41f2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 28.57142857142857,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 33.33333333333333,
+      "qampari_f1_top5": 33.33333333333333,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "38__wikitables_composition__dev|mean_set|17": {
+    "qid": "38__wikitables_composition__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      8
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "25b474e6309f86ee9d0dc3e315e55135cf9ac4a89227d419bcf8725e7dc4422f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 6.666666666666667,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 12.5,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "38__wikitables_composition__dev|mean_set|29": {
+    "qid": "38__wikitables_composition__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      8
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "b4024ad9e70387f1fcc62462b217300cd67ada35b76311db5bdcd40911a6121c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 6.666666666666667,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 12.5,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "38__wikitables_composition__dev|conservative_set|17": {
+    "qid": "38__wikitables_composition__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      17,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "a5ae602c84ef69b16d4dc0ecabcf7fc62aeebc3d25cffbf1b327d08d6ecad2a0",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "38__wikitables_composition__dev|conservative_set|29": {
+    "qid": "38__wikitables_composition__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      17,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "ae9e8e2f6c934962a61b8326ecde227f93fbbf2339531a6545b8c4406328bfce",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "38__wikitables_composition__dev|conservative_independent|17": {
+    "qid": "38__wikitables_composition__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      17,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "3c276225dda653ba423f9b8ce33719d123648b0f1da529d18bbbb605f386c6d4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 6.666666666666667,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 12.5,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "38__wikitables_composition__dev|conservative_independent|29": {
+    "qid": "38__wikitables_composition__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      17,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "c04ab3dc0318b42ee6ece94b1171827dc90278886af465320a1be1ef834c8a5d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 6.666666666666667,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 12.5,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "137__wikidata_comp__dev|mean_set|17": {
+    "qid": "137__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d7b641fd93c5ed075becd9cec29a3488109b0c24e056e2647170e93bf2c25f8b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "137__wikidata_comp__dev|mean_set|29": {
+    "qid": "137__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "e23ef4c7cfd72563f7f84e076aa831b64b3bf0e425ebe0a1af7de27c4db93a49",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "137__wikidata_comp__dev|conservative_set|17": {
+    "qid": "137__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d7b641fd93c5ed075becd9cec29a3488109b0c24e056e2647170e93bf2c25f8b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "137__wikidata_comp__dev|conservative_set|29": {
+    "qid": "137__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "e23ef4c7cfd72563f7f84e076aa831b64b3bf0e425ebe0a1af7de27c4db93a49",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "137__wikidata_comp__dev|conservative_independent|17": {
+    "qid": "137__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "d7b641fd93c5ed075becd9cec29a3488109b0c24e056e2647170e93bf2c25f8b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "137__wikidata_comp__dev|conservative_independent|29": {
+    "qid": "137__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      19,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "e23ef4c7cfd72563f7f84e076aa831b64b3bf0e425ebe0a1af7de27c4db93a49",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "305__wikidata_comp__dev|mean_set|17": {
+    "qid": "305__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      13,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "fc9dd99724eea3e64f83e3e253e59ce69c326259846d9e789705191b280e7bd6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "305__wikidata_comp__dev|mean_set|29": {
+    "qid": "305__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      13,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "4cdee734fbf9cb67486c80dca14f036c5e94b40e213f85e2cf22817202c232d3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "305__wikidata_comp__dev|conservative_set|17": {
+    "qid": "305__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      6,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "ed3ab38b2ccaa8536da2604ceb731aac7e62266666ac29dd7312db62372a844e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "305__wikidata_comp__dev|conservative_set|29": {
+    "qid": "305__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      6,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "d528278c0d4cd0a712a4501cdb4c30abb4cb74ad56f9b786a7cff8bc1dd0718e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "305__wikidata_comp__dev|conservative_independent|17": {
+    "qid": "305__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      2,
+      23,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "570cc51b04f87455dfaa271f795eb14305553c86589c4451977a2ef7f8705b54",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "305__wikidata_comp__dev|conservative_independent|29": {
+    "qid": "305__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      2,
+      23,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "688c468ebaca0f28ab46fb8bae3d09b58f19e91c58671db19cd5c6b5e3da9906",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "691__wikidata_simple__dev|mean_set|17": {
+    "qid": "691__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      19,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "3738ac388a71020d1d289ae5d66ddb6c9bffc72cd01f30047f2839bf0b88b333",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "691__wikidata_simple__dev|mean_set|29": {
+    "qid": "691__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      19,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "dbbe0e54d44b7379a4356ef72d79aa7df0da8fe37b652f5bfcbb9eb71a40ec79",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "691__wikidata_simple__dev|conservative_set|17": {
+    "qid": "691__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      19,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "3738ac388a71020d1d289ae5d66ddb6c9bffc72cd01f30047f2839bf0b88b333",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "691__wikidata_simple__dev|conservative_set|29": {
+    "qid": "691__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      19,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "dbbe0e54d44b7379a4356ef72d79aa7df0da8fe37b652f5bfcbb9eb71a40ec79",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "691__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "691__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      12,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "0c3a7d439fee4d7fbd184eacdeec351ffaf0d242cab8231bfee9c8e9327e8aec",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 25.0,
+      "citation_prec": 25.0,
+      "utility": 0.0
+    }
+  },
+  "691__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "691__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      12,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "92beeebffdeb05206daf7869654e93a1458437cf36898d37c02f9eceb9f03fcb",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 25.0,
+      "citation_prec": 25.0,
+      "utility": 0.0
+    }
+  },
+  "218__wikidata_intersection__dev|mean_set|17": {
+    "qid": "218__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      20,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f16326fb0726af0e0cf0e8d3bca578956aceecd7ad39adcb64ea29536795e471",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "218__wikidata_intersection__dev|mean_set|29": {
+    "qid": "218__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      20,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "bccc93d1b94c3f78744df24c5d6d1b23434351f21cda1e20f76c1a9a7bf32ee9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "218__wikidata_intersection__dev|conservative_set|17": {
+    "qid": "218__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      20,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f16326fb0726af0e0cf0e8d3bca578956aceecd7ad39adcb64ea29536795e471",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "218__wikidata_intersection__dev|conservative_set|29": {
+    "qid": "218__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      20,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "bccc93d1b94c3f78744df24c5d6d1b23434351f21cda1e20f76c1a9a7bf32ee9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "218__wikidata_intersection__dev|conservative_independent|17": {
+    "qid": "218__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      9,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "a6b68bec7ee478e759319053aae2c326a972378334fc1628f1cda04ea625ca27",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "218__wikidata_intersection__dev|conservative_independent|29": {
+    "qid": "218__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      9,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "d3f3fd773e07aa2439d8a9514afd6fcb68f524db4a6498cb464173ee37e2397c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1350__wikidata_simple__dev|mean_set|17": {
+    "qid": "1350__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      11,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "364a7228c2491ff9274885af38ce439d46f180c5aeeb3306318cfb3e1b76b040",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1350__wikidata_simple__dev|mean_set|29": {
+    "qid": "1350__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      11,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "3520f347051fcddbc114eea7878bdbac72e6a5afe328331e9d081fcc14a06963",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1350__wikidata_simple__dev|conservative_set|17": {
+    "qid": "1350__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      11,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "364a7228c2491ff9274885af38ce439d46f180c5aeeb3306318cfb3e1b76b040",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1350__wikidata_simple__dev|conservative_set|29": {
+    "qid": "1350__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      11,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "3520f347051fcddbc114eea7878bdbac72e6a5afe328331e9d081fcc14a06963",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1350__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "1350__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      9,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "6dd77cca9140d34bd4f36fa5d60781526f8fb41ee8616cdf57ab13505d1a79dd",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "1350__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "1350__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      9,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "f5836a4e510d976af59526b97823b2f319655eafa26567d5bba3b8f3e2440712",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "507__wikitables_simple__dev|mean_set|17": {
+    "qid": "507__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "04068f970d27f05e3c5fb494d7b1a20dc9b218e44021106c85a6311820563877",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "507__wikitables_simple__dev|mean_set|29": {
+    "qid": "507__wikitables_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "4e66916566c5496e6001999391ceeabf59760eb6ab4f801fa79de62bf274e847",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "507__wikitables_simple__dev|conservative_set|17": {
+    "qid": "507__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "04068f970d27f05e3c5fb494d7b1a20dc9b218e44021106c85a6311820563877",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "507__wikitables_simple__dev|conservative_set|29": {
+    "qid": "507__wikitables_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "4e66916566c5496e6001999391ceeabf59760eb6ab4f801fa79de62bf274e847",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "507__wikitables_simple__dev|conservative_independent|17": {
+    "qid": "507__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "04068f970d27f05e3c5fb494d7b1a20dc9b218e44021106c85a6311820563877",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "507__wikitables_simple__dev|conservative_independent|29": {
+    "qid": "507__wikitables_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      5,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "4e66916566c5496e6001999391ceeabf59760eb6ab4f801fa79de62bf274e847",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "714__wikidata_simple__dev|mean_set|17": {
+    "qid": "714__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      14
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "741e579ab5f1a5e931d41cd4d1f86850d238be02dedbde79258cb50fdb387653",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "714__wikidata_simple__dev|mean_set|29": {
+    "qid": "714__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      14
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "f7cef523b7eaf267a7fddccb14c64bbe988b2e3dd80e846238bbc8eea3ccb89a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "714__wikidata_simple__dev|conservative_set|17": {
+    "qid": "714__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      14
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "741e579ab5f1a5e931d41cd4d1f86850d238be02dedbde79258cb50fdb387653",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "714__wikidata_simple__dev|conservative_set|29": {
+    "qid": "714__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      14
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "f7cef523b7eaf267a7fddccb14c64bbe988b2e3dd80e846238bbc8eea3ccb89a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "714__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "714__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      15,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "80939bb99658a6ce9e9a1cb1159e6ffc6366590653037789e0c13e8452a4163c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "714__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "714__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      15,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "f31f34658c7fffb9612a923aac9e2cbc93ab2b716693f9f102b897af5e8663b5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "259__wikidata_intersection__dev|mean_set|17": {
+    "qid": "259__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      22,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "17100b795dd4b3e88d5a7039de86adcd8980caa3460b4521cfd35ace72a6b1e3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 57.14285714285715,
+      "qampari_f1_top5": 57.14285714285715,
+      "citation_rec": 50.0,
+      "citation_prec": 25.0,
+      "utility": 53.33333333333334
+    }
+  },
+  "259__wikidata_intersection__dev|mean_set|29": {
+    "qid": "259__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      22,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "19c62f1c07897076ecb54817c7b69e5c509333965dda4a014926d9c57429d337",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 57.14285714285715,
+      "qampari_f1_top5": 57.14285714285715,
+      "citation_rec": 50.0,
+      "citation_prec": 25.0,
+      "utility": 53.33333333333334
+    }
+  },
+  "259__wikidata_intersection__dev|conservative_set|17": {
+    "qid": "259__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      14,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "85fe707aee5c01ef8d74b3c4c8e6741d7b1c770455fc0e8f2f242271fc374330",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 33.333333333333336,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 50.0,
+      "utility": 50.0
+    }
+  },
+  "259__wikidata_intersection__dev|conservative_set|29": {
+    "qid": "259__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      14,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "f6a615ed4460b438d8d1c2038fc3732866d5afaea9113d3814e32fdd1d267b47",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 33.333333333333336,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 50.0,
+      "utility": 50.0
+    }
+  },
+  "259__wikidata_intersection__dev|conservative_independent|17": {
+    "qid": "259__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      21,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "3b58db34adc462dbb93d379ecf897c6bba1ba08e659ab5d2fdf38c754e79ae0b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 60.0,
+      "qampari_rec": 60.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 60.0,
+      "qampari_f1_top5": 60.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "259__wikidata_intersection__dev|conservative_independent|29": {
+    "qid": "259__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      21,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "daa8bab6163885dc2e4d3568ea488859a24c13e31e3daf556d4c9b9f55fa4ef3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 60.0,
+      "qampari_rec": 60.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 60.0,
+      "qampari_f1_top5": 60.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "871__wikidata_simple__dev|mean_set|17": {
+    "qid": "871__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      16,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "19fd258775f1fc6c7b614da6b30788fb65a121a7d6189bc4c91e1b27ce082695",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 2.9850746268656714,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 5.714285714285714,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 20.0,
+      "utility": 40.0
+    }
+  },
+  "871__wikidata_simple__dev|mean_set|29": {
+    "qid": "871__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      16,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "afa99aced38a47b4a2611a43b964e3226a3af017aa838eec5864552bf71d1fa1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 2.9850746268656714,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 5.714285714285714,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 20.0,
+      "utility": 40.0
+    }
+  },
+  "871__wikidata_simple__dev|conservative_set|17": {
+    "qid": "871__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      16,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "19fd258775f1fc6c7b614da6b30788fb65a121a7d6189bc4c91e1b27ce082695",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 2.9850746268656714,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 5.714285714285714,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 20.0,
+      "utility": 40.0
+    }
+  },
+  "871__wikidata_simple__dev|conservative_set|29": {
+    "qid": "871__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      16,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "afa99aced38a47b4a2611a43b964e3226a3af017aa838eec5864552bf71d1fa1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 2.9850746268656714,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 5.714285714285714,
+      "qampari_f1_top5": 50.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 20.0,
+      "utility": 40.0
+    }
+  },
+  "871__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "871__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "a4cbbb8d3e01d031d58281ef6575c669a3ee3c17d3ec3bebe54b1f12041361a6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 1.4925373134328357,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 2.8985507246376807,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "871__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "871__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "43997bff8504b318249517549d493b5c1cb0e34ed41f7252979a39e3de63b851",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 1.4925373134328357,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 2.8985507246376807,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "339__wikidata_intersection__dev|mean_set|17": {
+    "qid": "339__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      7,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "b42715dfd9ccc5ab39c3a224db5bc39d34af251614d55eb5b47ce8e2dbca263c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "339__wikidata_intersection__dev|mean_set|29": {
+    "qid": "339__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      7,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "a1a4f2a9d94b33e6c067b15ea4b48c39c105ba329c7d4a54a61b0348027822a7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "339__wikidata_intersection__dev|conservative_set|17": {
+    "qid": "339__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      7,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "b42715dfd9ccc5ab39c3a224db5bc39d34af251614d55eb5b47ce8e2dbca263c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "339__wikidata_intersection__dev|conservative_set|29": {
+    "qid": "339__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      7,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "a1a4f2a9d94b33e6c067b15ea4b48c39c105ba329c7d4a54a61b0348027822a7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "339__wikidata_intersection__dev|conservative_independent|17": {
+    "qid": "339__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "388b5eb81f295c92d47ccebdaf1f7a5f76cf5aa70621f00182f1fc0d263f8c77",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "339__wikidata_intersection__dev|conservative_independent|29": {
+    "qid": "339__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "ddf7cd1e45cf00be97ef9d13be0d36151178d614f5b1cfd3f11a6b51e06dac7b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "956__wikidata_comp__dev|mean_set|17": {
+    "qid": "956__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      24,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "a37b540521663e2b448c4691031d6acdc1525d12640534347b2882f6dadcae0a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 8.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 25.0,
+      "citation_prec": 22.22222222222222,
+      "utility": 0.0
+    }
+  },
+  "956__wikidata_comp__dev|mean_set|29": {
+    "qid": "956__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      24,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "6e66977a4beb2dd8e01bec25bcc395be101b4b1f25cb61b6e13ec4caf0d399c8",
+    "valid": true,
+    "metrics": {
+      "num_preds": 10.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 20.0,
+      "citation_prec": 20.0,
+      "utility": 0.0
+    }
+  },
+  "956__wikidata_comp__dev|conservative_set|17": {
+    "qid": "956__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      24,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "a37b540521663e2b448c4691031d6acdc1525d12640534347b2882f6dadcae0a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 8.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 25.0,
+      "citation_prec": 22.22222222222222,
+      "utility": 0.0
+    }
+  },
+  "956__wikidata_comp__dev|conservative_set|29": {
+    "qid": "956__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      24,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "6e66977a4beb2dd8e01bec25bcc395be101b4b1f25cb61b6e13ec4caf0d399c8",
+    "valid": true,
+    "metrics": {
+      "num_preds": 10.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 20.0,
+      "citation_prec": 20.0,
+      "utility": 0.0
+    }
+  },
+  "956__wikidata_comp__dev|conservative_independent|17": {
+    "qid": "956__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      5,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "e5405068c127f32ce96b2892576ab4b94dad5b63fe958970428202131025ffad",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 20.0,
+      "citation_prec": 20.0,
+      "utility": 0.0
+    }
+  },
+  "956__wikidata_comp__dev|conservative_independent|29": {
+    "qid": "956__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      0,
+      1,
+      5,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "a39add0b990f1e05b42a06e626b555f19bbb01f8e832aa0c498792854b704185",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 20.0,
+      "citation_prec": 20.0,
+      "utility": 0.0
+    }
+  },
+  "456__wikidata_intersection__dev|mean_set|17": {
+    "qid": "456__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      25
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "2c5be35ebe64a37b07a9fb5338d7840e5cb4a38f94700292750239d81115198a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "456__wikidata_intersection__dev|mean_set|29": {
+    "qid": "456__wikidata_intersection__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      25
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "fa6c53f2fd27186c618dbd582d96b16720486326253415d18b6e53c212be2c47",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "456__wikidata_intersection__dev|conservative_set|17": {
+    "qid": "456__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      25
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "2c5be35ebe64a37b07a9fb5338d7840e5cb4a38f94700292750239d81115198a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "456__wikidata_intersection__dev|conservative_set|29": {
+    "qid": "456__wikidata_intersection__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      25
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "fa6c53f2fd27186c618dbd582d96b16720486326253415d18b6e53c212be2c47",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "456__wikidata_intersection__dev|conservative_independent|17": {
+    "qid": "456__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "13f99245b280f57f207013271e64d54e0df1d5b3b1398fd225ca4384cd9adfed",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "456__wikidata_intersection__dev|conservative_independent|29": {
+    "qid": "456__wikidata_intersection__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      7,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "1dac4354646a81582632b967eb5479602c41c8672eb05a311958bdacb7331cde",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 12.5,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.22222222222222,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "621__wikidata_simple__dev|mean_set|17": {
+    "qid": "621__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      30
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "e08d900509e568b06f0e23837c6a8576253751711331107c3e90ed0b9f04465e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "621__wikidata_simple__dev|mean_set|29": {
+    "qid": "621__wikidata_simple__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      30
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "7978d0308cb0f8284da27859e4115b5625086f320f0478a41f3c6364c8f69325",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "621__wikidata_simple__dev|conservative_set|17": {
+    "qid": "621__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      30
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "e08d900509e568b06f0e23837c6a8576253751711331107c3e90ed0b9f04465e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "621__wikidata_simple__dev|conservative_set|29": {
+    "qid": "621__wikidata_simple__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      30
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "7978d0308cb0f8284da27859e4115b5625086f320f0478a41f3c6364c8f69325",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "621__wikidata_simple__dev|conservative_independent|17": {
+    "qid": "621__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      28,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "58fc7b68ec359f029754f171c99eb3d7bc4f24e23508b897d7bdcee356bf6c09",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "621__wikidata_simple__dev|conservative_independent|29": {
+    "qid": "621__wikidata_simple__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      28,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "209c47ad3e6623c022485b6867f89080e95e022b236f61e255dab52e9b607161",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "398__wikidata_comp__dev|mean_set|17": {
+    "qid": "398__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      35,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f453a58e87a1c436b58e1c57e8be63096d41b23d723e28160da3c8b3447e246b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "398__wikidata_comp__dev|mean_set|29": {
+    "qid": "398__wikidata_comp__dev",
+    "tag": "mean_set",
+    "selected": [
+      0,
+      1,
+      35,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "e7ddb7ef8603f44ca1857a225931fd8adcd04898327c384855fe02a648384cbe",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "398__wikidata_comp__dev|conservative_set|17": {
+    "qid": "398__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      35,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f453a58e87a1c436b58e1c57e8be63096d41b23d723e28160da3c8b3447e246b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "398__wikidata_comp__dev|conservative_set|29": {
+    "qid": "398__wikidata_comp__dev",
+    "tag": "conservative_set",
+    "selected": [
+      0,
+      1,
+      35,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "e7ddb7ef8603f44ca1857a225931fd8adcd04898327c384855fe02a648384cbe",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "398__wikidata_comp__dev|conservative_independent|17": {
+    "qid": "398__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      27,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "A",
+    "draw_id": "f3a42e734c71dd30e1287b10382d903a1582c5977c001b1f79d681f3de291bb6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "398__wikidata_comp__dev|conservative_independent|29": {
+    "qid": "398__wikidata_comp__dev",
+    "tag": "conservative_independent",
+    "selected": [
+      27,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "A",
+    "draw_id": "795d6dabcf4d2bc1d0460f6898bd48d950c255c1c8bbdf8eec3427c4bdef68d2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  }
+}

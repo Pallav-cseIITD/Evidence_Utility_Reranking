@@ -1,0 +1,46 @@
+{
+  "passed": true,
+  "logical_answer_records": 2944,
+  "questions": 128,
+  "matched_original_results": true,
+  "reader_calls": 0,
+  "qualification": {
+    "qwen8b": {
+      "original": {
+        "passed": true,
+        "completed": 24,
+        "exact_passes": 24,
+        "negative_passes": 12,
+        "negative_total": 12,
+        "join_passes": 4,
+        "join_total": 4,
+        "all_valid_uncapped": true
+      },
+      "expanded": {
+        "passed": true,
+        "exact_passes": 12,
+        "completed": 12
+      },
+      "diagnostic_only": false
+    },
+    "qwen14b": {
+      "original_gate_passed": true,
+      "expanded_gate_passed": false,
+      "diagnostic_only": true,
+      "exact_answer_type_passes": 11,
+      "answer_type_total": 12,
+      "status": "expanded_gate_failed_diagnostic_evaluation_only"
+    },
+    "phi4": {
+      "original_gate_passed": true,
+      "expanded_gate_passed": false,
+      "diagnostic_only": true,
+      "exact_answer_type_passes": 9,
+      "answer_type_total": 12,
+      "status": "expanded_gate_failed_diagnostic_evaluation_only"
+    }
+  },
+  "individual_scores_match_original": true,
+  "individual_scores_checked": 2944,
+  "software_tests": 9
+}

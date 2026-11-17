@@ -1,0 +1,22 @@
+{
+  "A": {
+    "passed": true,
+    "completed": 24,
+    "exact_passes": 24,
+    "negative_passes": 12,
+    "negative_total": 12,
+    "join_passes": 4,
+    "join_total": 4,
+    "all_valid_uncapped": true
+  },
+  "B": {
+    "passed": true,
+    "completed": 24,
+    "exact_passes": 24,
+    "negative_passes": 12,
+    "negative_total": 12,
+    "join_passes": 4,
+    "join_total": 4,
+    "all_valid_uncapped": true
+  }
+}

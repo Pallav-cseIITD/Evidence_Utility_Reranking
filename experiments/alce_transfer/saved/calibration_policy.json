@@ -1,0 +1,622 @@
+{
+  "thresholds": {
+    "mean_set": null,
+    "conservative_set": null,
+    "conservative_independent": null
+  },
+  "profiles": {
+    "mean_set": [
+      {
+        "qid": "595__wikidata_simple__dev",
+        "score": -0.1259029249885406,
+        "delta": 15.360983102918581
+      },
+      {
+        "qid": "551__wikitables_simple__dev",
+        "score": -0.6147773996632866,
+        "delta": 0.0
+      },
+      {
+        "qid": "789__wikidata_simple__dev",
+        "score": 3.4784915504362295,
+        "delta": 0.0
+      },
+      {
+        "qid": "532__wikitables_simple__dev",
+        "score": 1.4153440221776403,
+        "delta": 0.0
+      },
+      {
+        "qid": "239__wikidata_comp__dev",
+        "score": 2.140582264841443,
+        "delta": 0.0
+      },
+      {
+        "qid": "622__wikidata_simple__dev",
+        "score": 4.27077474419632,
+        "delta": 0.0
+      },
+      {
+        "qid": "589__wikidata_simple__dev",
+        "score": 4.006955560266705,
+        "delta": 0.0
+      },
+      {
+        "qid": "969__wikidata_comp__dev",
+        "score": 2.2109166790640455,
+        "delta": 0.0
+      },
+      {
+        "qid": "47__wikitables_composition__dev",
+        "score": -2.635879608655127,
+        "delta": 0.0
+      },
+      {
+        "qid": "684__wikidata_simple__dev",
+        "score": 0.9041981436919296,
+        "delta": 25.531914893617017
+      },
+      {
+        "qid": "52__wikitables_composition__dev",
+        "score": -0.42256842036744174,
+        "delta": 0.0
+      },
+      {
+        "qid": "372__wikidata_intersection__dev",
+        "score": 2.731901924550229,
+        "delta": -2.197802197802204
+      },
+      {
+        "qid": "661__wikidata_simple__dev",
+        "score": 0.44361856555896606,
+        "delta": -48.91304347826087
+      },
+      {
+        "qid": "1006__wikidata_comp__dev",
+        "score": 3.4150396441350246,
+        "delta": 0.0
+      },
+      {
+        "qid": "463__wikidata_intersection__dev",
+        "score": -1.0859384262944871,
+        "delta": 0.0
+      },
+      {
+        "qid": "730__wikidata_simple__dev",
+        "score": 1.0227702005441,
+        "delta": 0.0
+      },
+      {
+        "qid": "489__wikitables_simple__dev",
+        "score": 4.6483632526734135,
+        "delta": 0.0
+      },
+      {
+        "qid": "774__wikidata_simple__dev",
+        "score": 3.8252849842758825,
+        "delta": 0.0
+      },
+      {
+        "qid": "874__wikidata_simple__dev",
+        "score": -0.06670504192444388,
+        "delta": 0.0
+      },
+      {
+        "qid": "462__wikidata_intersection__dev",
+        "score": 2.658417954686162,
+        "delta": 0.0
+      },
+      {
+        "qid": "650__wikidata_simple__dev",
+        "score": 1.7787655049153384,
+        "delta": 9.411764705882376
+      },
+      {
+        "qid": "758__wikidata_simple__dev",
+        "score": 1.5949398017569112,
+        "delta": 0.0
+      },
+      {
+        "qid": "692__wikidata_simple__dev",
+        "score": 0.8651468488846176,
+        "delta": 0.0
+      },
+      {
+        "qid": "618__wikidata_simple__dev",
+        "score": 3.3188700153117585,
+        "delta": 0.0
+      },
+      {
+        "qid": "813__wikidata_simple__dev",
+        "score": 3.9494896612733363,
+        "delta": 0.0
+      },
+      {
+        "qid": "38__wikitables_composition__dev",
+        "score": 4.8850938523586755,
+        "delta": 0.0
+      },
+      {
+        "qid": "137__wikidata_comp__dev",
+        "score": 2.8836488729702836,
+        "delta": -52.17391304347825
+      },
+      {
+        "qid": "305__wikidata_comp__dev",
+        "score": 0.9183623724727566,
+        "delta": 0.0
+      },
+      {
+        "qid": "691__wikidata_simple__dev",
+        "score": -2.8761911986712585,
+        "delta": 0.0
+      },
+      {
+        "qid": "218__wikidata_intersection__dev",
+        "score": 4.633748933815307,
+        "delta": 0.0
+      },
+      {
+        "qid": "1350__wikidata_simple__dev",
+        "score": -0.4039882739859154,
+        "delta": 0.0
+      },
+      {
+        "qid": "507__wikitables_simple__dev",
+        "score": -0.3894226593781718,
+        "delta": 0.0
+      },
+      {
+        "qid": "714__wikidata_simple__dev",
+        "score": 0.3306026978772365,
+        "delta": 0.0
+      },
+      {
+        "qid": "259__wikidata_intersection__dev",
+        "score": 0.24678564606252068,
+        "delta": 0.0
+      },
+      {
+        "qid": "871__wikidata_simple__dev",
+        "score": 0.2985643786643465,
+        "delta": 40.0
+      },
+      {
+        "qid": "339__wikidata_intersection__dev",
+        "score": 0.35517800734517513,
+        "delta": 0.0
+      },
+      {
+        "qid": "956__wikidata_comp__dev",
+        "score": 4.9374302981267615,
+        "delta": 0.0
+      },
+      {
+        "qid": "456__wikidata_intersection__dev",
+        "score": 0.1946651168518463,
+        "delta": 0.0
+      },
+      {
+        "qid": "621__wikidata_simple__dev",
+        "score": 0.8583390771926533,
+        "delta": 0.0
+      },
+      {
+        "qid": "398__wikidata_comp__dev",
+        "score": 0.8258424171736437,
+        "delta": 0.0
+      }
+    ],
+    "conservative_set": [
+      {
+        "qid": "595__wikidata_simple__dev",
+        "score": -0.3914046619977295,
+        "delta": 15.360983102918581
+      },
+      {
+        "qid": "551__wikitables_simple__dev",
+        "score": -0.7228668605148053,
+        "delta": 0.0
+      },
+      {
+        "qid": "789__wikidata_simple__dev",
+        "score": 3.2054538934099797,
+        "delta": 0.0
+      },
+      {
+        "qid": "532__wikitables_simple__dev",
+        "score": 1.2725958436292162,
+        "delta": 0.0
+      },
+      {
+        "qid": "239__wikidata_comp__dev",
+        "score": 2.0409119300881513,
+        "delta": 0.0
+      },
+      {
+        "qid": "622__wikidata_simple__dev",
+        "score": 3.9022479991915358,
+        "delta": 0.0
+      },
+      {
+        "qid": "589__wikidata_simple__dev",
+        "score": 3.8860687118456276,
+        "delta": 0.0
+      },
+      {
+        "qid": "969__wikidata_comp__dev",
+        "score": 1.9576015499771289,
+        "delta": 0.0
+      },
+      {
+        "qid": "47__wikitables_composition__dev",
+        "score": -2.7822680347414126,
+        "delta": 0.0
+      },
+      {
+        "qid": "684__wikidata_simple__dev",
+        "score": 0.5860485181236033,
+        "delta": 25.531914893617017
+      },
+      {
+        "qid": "52__wikitables_composition__dev",
+        "score": -0.6452239139864787,
+        "delta": 0.0
+      },
+      {
+        "qid": "372__wikidata_intersection__dev",
+        "score": 2.3621264754616282,
+        "delta": -2.197802197802204
+      },
+      {
+        "qid": "661__wikidata_simple__dev",
+        "score": 0.46502149628239203,
+        "delta": -48.91304347826087
+      },
+      {
+        "qid": "1006__wikidata_comp__dev",
+        "score": 3.1731238293573156,
+        "delta": 0.0
+      },
+      {
+        "qid": "463__wikidata_intersection__dev",
+        "score": -1.364642106699041,
+        "delta": 0.0
+      },
+      {
+        "qid": "730__wikidata_simple__dev",
+        "score": 0.7612777603881946,
+        "delta": 0.0
+      },
+      {
+        "qid": "489__wikitables_simple__dev",
+        "score": 4.300766899578528,
+        "delta": 0.0
+      },
+      {
+        "qid": "774__wikidata_simple__dev",
+        "score": 3.6622085715576604,
+        "delta": 0.0
+      },
+      {
+        "qid": "874__wikidata_simple__dev",
+        "score": -0.1857618646985861,
+        "delta": 0.0
+      },
+      {
+        "qid": "462__wikidata_intersection__dev",
+        "score": 2.4474761603033994,
+        "delta": 0.0
+      },
+      {
+        "qid": "650__wikidata_simple__dev",
+        "score": 1.3243996161453937,
+        "delta": 9.411764705882376
+      },
+      {
+        "qid": "758__wikidata_simple__dev",
+        "score": 1.3537628549264955,
+        "delta": 0.0
+      },
+      {
+        "qid": "692__wikidata_simple__dev",
+        "score": 0.6435113903560781,
+        "delta": 0.0
+      },
+      {
+        "qid": "618__wikidata_simple__dev",
+        "score": 3.185523860763815,
+        "delta": 0.0
+      },
+      {
+        "qid": "813__wikidata_simple__dev",
+        "score": 3.6905327222173185,
+        "delta": 0.0
+      },
+      {
+        "qid": "38__wikitables_composition__dev",
+        "score": 4.50251491186007,
+        "delta": -50.0
+      },
+      {
+        "qid": "137__wikidata_comp__dev",
+        "score": 2.522885007515436,
+        "delta": -52.17391304347825
+      },
+      {
+        "qid": "305__wikidata_comp__dev",
+        "score": 0.560484446388589,
+        "delta": 0.0
+      },
+      {
+        "qid": "691__wikidata_simple__dev",
+        "score": -2.9992634769449436,
+        "delta": 0.0
+      },
+      {
+        "qid": "218__wikidata_intersection__dev",
+        "score": 4.282908370215287,
+        "delta": 0.0
+      },
+      {
+        "qid": "1350__wikidata_simple__dev",
+        "score": -0.3332071554307925,
+        "delta": 0.0
+      },
+      {
+        "qid": "507__wikitables_simple__dev",
+        "score": -0.8461270420376805,
+        "delta": 0.0
+      },
+      {
+        "qid": "714__wikidata_simple__dev",
+        "score": -0.04151306832780949,
+        "delta": 0.0
+      },
+      {
+        "qid": "259__wikidata_intersection__dev",
+        "score": 0.09304905870085922,
+        "delta": -3.333333333333343
+      },
+      {
+        "qid": "871__wikidata_simple__dev",
+        "score": 0.04713345396812574,
+        "delta": 40.0
+      },
+      {
+        "qid": "339__wikidata_intersection__dev",
+        "score": 0.3491851234820017,
+        "delta": 0.0
+      },
+      {
+        "qid": "956__wikidata_comp__dev",
+        "score": 4.3954958610960375,
+        "delta": 0.0
+      },
+      {
+        "qid": "456__wikidata_intersection__dev",
+        "score": 0.08564705009292328,
+        "delta": 0.0
+      },
+      {
+        "qid": "621__wikidata_simple__dev",
+        "score": 0.9103069961318035,
+        "delta": 0.0
+      },
+      {
+        "qid": "398__wikidata_comp__dev",
+        "score": 0.3631772117816811,
+        "delta": 0.0
+      }
+    ],
+    "conservative_independent": [
+      {
+        "qid": "595__wikidata_simple__dev",
+        "score": 0.23323920350489516,
+        "delta": 15.360983102918581
+      },
+      {
+        "qid": "551__wikitables_simple__dev",
+        "score": -0.1620390190579643,
+        "delta": -40.0
+      },
+      {
+        "qid": "789__wikidata_simple__dev",
+        "score": 0.8154143715682928,
+        "delta": 0.0
+      },
+      {
+        "qid": "532__wikitables_simple__dev",
+        "score": -0.02682803118017965,
+        "delta": 0.0
+      },
+      {
+        "qid": "239__wikidata_comp__dev",
+        "score": 0.5836136516520428,
+        "delta": 0.0
+      },
+      {
+        "qid": "622__wikidata_simple__dev",
+        "score": 0.9552530986622463,
+        "delta": 0.0
+      },
+      {
+        "qid": "589__wikidata_simple__dev",
+        "score": 0.8067544574003789,
+        "delta": 0.0
+      },
+      {
+        "qid": "969__wikidata_comp__dev",
+        "score": 0.27846269549508784,
+        "delta": 0.0
+      },
+      {
+        "qid": "47__wikitables_composition__dev",
+        "score": 0.06719617619989915,
+        "delta": 0.0
+      },
+      {
+        "qid": "684__wikidata_simple__dev",
+        "score": 1.0161963996283268,
+        "delta": 0.0
+      },
+      {
+        "qid": "52__wikitables_composition__dev",
+        "score": -0.1778289229164484,
+        "delta": 0.0
+      },
+      {
+        "qid": "372__wikidata_intersection__dev",
+        "score": -0.49199114667296534,
+        "delta": -0.7504690431519734
+      },
+      {
+        "qid": "661__wikidata_simple__dev",
+        "score": 0.21850099827613828,
+        "delta": -48.91304347826087
+      },
+      {
+        "qid": "1006__wikidata_comp__dev",
+        "score": 0.5256612656276024,
+        "delta": 0.0
+      },
+      {
+        "qid": "463__wikidata_intersection__dev",
+        "score": -0.30508743724323845,
+        "delta": 0.0
+      },
+      {
+        "qid": "730__wikidata_simple__dev",
+        "score": 0.14074783205156832,
+        "delta": 0.0
+      },
+      {
+        "qid": "489__wikitables_simple__dev",
+        "score": 1.105172927451389,
+        "delta": 0.0
+      },
+      {
+        "qid": "774__wikidata_simple__dev",
+        "score": 1.1047985151158528,
+        "delta": 0.0
+      },
+      {
+        "qid": "874__wikidata_simple__dev",
+        "score": -1.6341436379742114,
+        "delta": 0.0
+      },
+      {
+        "qid": "462__wikidata_intersection__dev",
+        "score": 0.6011862494080014,
+        "delta": 0.0
+      },
+      {
+        "qid": "650__wikidata_simple__dev",
+        "score": -0.4004137753738879,
+        "delta": 9.411764705882376
+      },
+      {
+        "qid": "758__wikidata_simple__dev",
+        "score": 1.5754000180199896,
+        "delta": 0.0
+      },
+      {
+        "qid": "692__wikidata_simple__dev",
+        "score": 0.13344039214331183,
+        "delta": 0.0
+      },
+      {
+        "qid": "618__wikidata_simple__dev",
+        "score": 0.5610881782884276,
+        "delta": 0.0
+      },
+      {
+        "qid": "813__wikidata_simple__dev",
+        "score": 0.3779629443620661,
+        "delta": 0.0
+      },
+      {
+        "qid": "38__wikitables_composition__dev",
+        "score": 0.7959096357896972,
+        "delta": 0.0
+      },
+      {
+        "qid": "137__wikidata_comp__dev",
+        "score": 0.5200676533354711,
+        "delta": -52.17391304347825
+      },
+      {
+        "qid": "305__wikidata_comp__dev",
+        "score": 0.28214827881624965,
+        "delta": 0.0
+      },
+      {
+        "qid": "691__wikidata_simple__dev",
+        "score": -0.266952190633484,
+        "delta": 0.0
+      },
+      {
+        "qid": "218__wikidata_intersection__dev",
+        "score": 0.5833986981469558,
+        "delta": 0.0
+      },
+      {
+        "qid": "1350__wikidata_simple__dev",
+        "score": 1.0885011684107853,
+        "delta": 0.0
+      },
+      {
+        "qid": "507__wikitables_simple__dev",
+        "score": 0.4753190609823466,
+        "delta": 0.0
+      },
+      {
+        "qid": "714__wikidata_simple__dev",
+        "score": -0.2845593281325419,
+        "delta": 0.0
+      },
+      {
+        "qid": "259__wikidata_intersection__dev",
+        "score": -0.13730098826526058,
+        "delta": -53.33333333333334
+      },
+      {
+        "qid": "871__wikidata_simple__dev",
+        "score": -0.03848905461930652,
+        "delta": 0.0
+      },
+      {
+        "qid": "339__wikidata_intersection__dev",
+        "score": 0.5253767862102809,
+        "delta": 0.0
+      },
+      {
+        "qid": "956__wikidata_comp__dev",
+        "score": 0.5358000904628354,
+        "delta": 0.0
+      },
+      {
+        "qid": "456__wikidata_intersection__dev",
+        "score": 0.43078689404537485,
+        "delta": 0.0
+      },
+      {
+        "qid": "621__wikidata_simple__dev",
+        "score": 0.31300420278654595,
+        "delta": 0.0
+      },
+      {
+        "qid": "398__wikidata_comp__dev",
+        "score": 0.3998772594272636,
+        "delta": 0.0
+      }
+    ]
+  },
+  "fixed_baseline_utilities": {
+    "gtr_top5": 13.141371701339938,
+    "ce_top5": 16.07365965806146,
+    "mmr_0.5": 16.83987277263489,
+    "coverage": 14.052353432046758
+  },
+  "strongest_fixed_baseline": "mmr_0.5"
+}

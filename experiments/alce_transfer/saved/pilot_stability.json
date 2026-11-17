@@ -1,0 +1,97 @@
+{
+  "questions": 32,
+  "complete_questions": 32,
+  "utility_tie_margin": 1.0,
+  "insert_original": {
+    "A_seed_repeat": {
+      "total": 32,
+      "informative": 5,
+      "both_tied": 27,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 1.0
+    },
+    "B_seed_repeat": {
+      "total": 32,
+      "informative": 3,
+      "both_tied": 29,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 0.6666666666666666
+    },
+    "cross_reader_means": {
+      "total": 32,
+      "informative": 6,
+      "both_tied": 26,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 0.3333333333333333
+    },
+    "cross_reader_conservative": {
+      "total": 32,
+      "informative": 5,
+      "both_tied": 27,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 0.4
+    }
+  },
+  "insert_candidate": {
+    "A_seed_repeat": {
+      "total": 32,
+      "informative": 6,
+      "both_tied": 26,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 1.0
+    },
+    "B_seed_repeat": {
+      "total": 32,
+      "informative": 9,
+      "both_tied": 23,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 1.0
+    },
+    "cross_reader_means": {
+      "total": 32,
+      "informative": 9,
+      "both_tied": 23,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 0.6666666666666666
+    },
+    "cross_reader_conservative": {
+      "total": 32,
+      "informative": 9,
+      "both_tied": 23,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 0.6666666666666666
+    }
+  },
+  "repair_preferences": {
+    "A_seed_repeat": {
+      "total": 32,
+      "informative": 7,
+      "both_tied": 25,
+      "strict_reversals": 1,
+      "agreement_excluding_both_tied": 0.8571428571428571
+    },
+    "B_seed_repeat": {
+      "total": 32,
+      "informative": 9,
+      "both_tied": 23,
+      "strict_reversals": 0,
+      "agreement_excluding_both_tied": 0.7777777777777778
+    },
+    "cross_reader_means": {
+      "total": 32,
+      "informative": 10,
+      "both_tied": 22,
+      "strict_reversals": 1,
+      "agreement_excluding_both_tied": 0.5
+    },
+    "cross_reader_conservative": {
+      "total": 32,
+      "informative": 10,
+      "both_tied": 22,
+      "strict_reversals": 1,
+      "agreement_excluding_both_tied": 0.5
+    }
+  },
+  "B_pilot_outcomes_used_for_fitting": false,
+  "interpretation": "32-question pre-training stability measurement; B pilot labels never become training targets."
+}

@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "training_questions": 126,
+  "training_actions": 502,
+  "thresholds": {
+    "mean_set": null,
+    "conservative_set": null,
+    "conservative_independent": null
+  },
+  "primary_baseline": "mmr_0.5",
+  "evaluation_questions": 100,
+  "cached_official_answer_and_citation_metrics_reused": true,
+  "models_labels_calibration_selections_stability_and_results_match": true,
+  "reader_calls": 0,
+  "nli_calls": 0
+}

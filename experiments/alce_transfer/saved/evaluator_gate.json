@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "cases": [
+    {
+      "premise": "Mira was born in Pinehaven.",
+      "claim": "Mira was born in Pinehaven.",
+      "expected": 1,
+      "predicted": 1
+    },
+    {
+      "premise": "Mira was born in Pinehaven.",
+      "claim": "Mira was born in Stoneford.",
+      "expected": 0,
+      "predicted": 0
+    },
+    {
+      "premise": "Amber Road was written by Ivo and directed by Lena.",
+      "claim": "Lena directed Amber Road.",
+      "expected": 1,
+      "predicted": 1
+    },
+    {
+      "premise": "Amber Road was written by Ivo and directed by Lena.",
+      "claim": "Ivo directed Amber Road.",
+      "expected": 0,
+      "predicted": 0
+    }
+  ],
+  "required_cases": 2,
+  "diagnostic_cases": 2,
+  "interpretation": "Direct runtime sanity plus relation diagnostics; not population semantic validation."
+}

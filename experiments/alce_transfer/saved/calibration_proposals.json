@@ -1,0 +1,562 @@
+{
+  "595__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 150,
+      "score": -0.1259029249885406
+    },
+    "conservative_set": {
+      "index": 150,
+      "score": -0.3914046619977295
+    },
+    "conservative_independent": {
+      "index": 0,
+      "score": 0.23323920350489516
+    }
+  },
+  "551__wikitables_simple__dev": {
+    "mean_set": {
+      "index": 79,
+      "score": -0.6147773996632866
+    },
+    "conservative_set": {
+      "index": 79,
+      "score": -0.7228668605148053
+    },
+    "conservative_independent": {
+      "index": 46,
+      "score": -0.1620390190579643
+    }
+  },
+  "789__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 81,
+      "score": 3.4784915504362295
+    },
+    "conservative_set": {
+      "index": 81,
+      "score": 3.2054538934099797
+    },
+    "conservative_independent": {
+      "index": 6,
+      "score": 0.8154143715682928
+    }
+  },
+  "532__wikitables_simple__dev": {
+    "mean_set": {
+      "index": 65,
+      "score": 1.4153440221776403
+    },
+    "conservative_set": {
+      "index": 65,
+      "score": 1.2725958436292162
+    },
+    "conservative_independent": {
+      "index": 13,
+      "score": -0.02682803118017965
+    }
+  },
+  "239__wikidata_comp__dev": {
+    "mean_set": {
+      "index": 86,
+      "score": 2.140582264841443
+    },
+    "conservative_set": {
+      "index": 86,
+      "score": 2.0409119300881513
+    },
+    "conservative_independent": {
+      "index": 1,
+      "score": 0.5836136516520428
+    }
+  },
+  "622__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 13,
+      "score": 4.27077474419632
+    },
+    "conservative_set": {
+      "index": 32,
+      "score": 3.9022479991915358
+    },
+    "conservative_independent": {
+      "index": 13,
+      "score": 0.9552530986622463
+    }
+  },
+  "589__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 74,
+      "score": 4.006955560266705
+    },
+    "conservative_set": {
+      "index": 74,
+      "score": 3.8860687118456276
+    },
+    "conservative_independent": {
+      "index": 26,
+      "score": 0.8067544574003789
+    }
+  },
+  "969__wikidata_comp__dev": {
+    "mean_set": {
+      "index": 8,
+      "score": 2.2109166790640455
+    },
+    "conservative_set": {
+      "index": 8,
+      "score": 1.9576015499771289
+    },
+    "conservative_independent": {
+      "index": 1,
+      "score": 0.27846269549508784
+    }
+  },
+  "47__wikitables_composition__dev": {
+    "mean_set": {
+      "index": 38,
+      "score": -2.635879608655127
+    },
+    "conservative_set": {
+      "index": 38,
+      "score": -2.7822680347414126
+    },
+    "conservative_independent": {
+      "index": 23,
+      "score": 0.06719617619989915
+    }
+  },
+  "684__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 26,
+      "score": 0.9041981436919296
+    },
+    "conservative_set": {
+      "index": 26,
+      "score": 0.5860485181236033
+    },
+    "conservative_independent": {
+      "index": 7,
+      "score": 1.0161963996283268
+    }
+  },
+  "52__wikitables_composition__dev": {
+    "mean_set": {
+      "index": 138,
+      "score": -0.42256842036744174
+    },
+    "conservative_set": {
+      "index": 138,
+      "score": -0.6452239139864787
+    },
+    "conservative_independent": {
+      "index": 17,
+      "score": -0.1778289229164484
+    }
+  },
+  "372__wikidata_intersection__dev": {
+    "mean_set": {
+      "index": 74,
+      "score": 2.731901924550229
+    },
+    "conservative_set": {
+      "index": 74,
+      "score": 2.3621264754616282
+    },
+    "conservative_independent": {
+      "index": 27,
+      "score": -0.49199114667296534
+    }
+  },
+  "661__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 100,
+      "score": 0.44361856555896606
+    },
+    "conservative_set": {
+      "index": 100,
+      "score": 0.46502149628239203
+    },
+    "conservative_independent": {
+      "index": 51,
+      "score": 0.21850099827613828
+    }
+  },
+  "1006__wikidata_comp__dev": {
+    "mean_set": {
+      "index": 108,
+      "score": 3.4150396441350246
+    },
+    "conservative_set": {
+      "index": 108,
+      "score": 3.1731238293573156
+    },
+    "conservative_independent": {
+      "index": 4,
+      "score": 0.5256612656276024
+    }
+  },
+  "463__wikidata_intersection__dev": {
+    "mean_set": {
+      "index": 8,
+      "score": -1.0859384262944871
+    },
+    "conservative_set": {
+      "index": 8,
+      "score": -1.364642106699041
+    },
+    "conservative_independent": {
+      "index": 44,
+      "score": -0.30508743724323845
+    }
+  },
+  "730__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 97,
+      "score": 1.0227702005441
+    },
+    "conservative_set": {
+      "index": 97,
+      "score": 0.7612777603881946
+    },
+    "conservative_independent": {
+      "index": 11,
+      "score": 0.14074783205156832
+    }
+  },
+  "489__wikitables_simple__dev": {
+    "mean_set": {
+      "index": 1,
+      "score": 4.6483632526734135
+    },
+    "conservative_set": {
+      "index": 1,
+      "score": 4.300766899578528
+    },
+    "conservative_independent": {
+      "index": 1,
+      "score": 1.105172927451389
+    }
+  },
+  "774__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 155,
+      "score": 3.8252849842758825
+    },
+    "conservative_set": {
+      "index": 155,
+      "score": 3.6622085715576604
+    },
+    "conservative_independent": {
+      "index": 21,
+      "score": 1.1047985151158528
+    }
+  },
+  "874__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 32,
+      "score": -0.06670504192444388
+    },
+    "conservative_set": {
+      "index": 32,
+      "score": -0.1857618646985861
+    },
+    "conservative_independent": {
+      "index": 10,
+      "score": -1.6341436379742114
+    }
+  },
+  "462__wikidata_intersection__dev": {
+    "mean_set": {
+      "index": 65,
+      "score": 2.658417954686162
+    },
+    "conservative_set": {
+      "index": 65,
+      "score": 2.4474761603033994
+    },
+    "conservative_independent": {
+      "index": 8,
+      "score": 0.6011862494080014
+    }
+  },
+  "650__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 3,
+      "score": 1.7787655049153384
+    },
+    "conservative_set": {
+      "index": 3,
+      "score": 1.3243996161453937
+    },
+    "conservative_independent": {
+      "index": 6,
+      "score": -0.4004137753738879
+    }
+  },
+  "758__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 49,
+      "score": 1.5949398017569112
+    },
+    "conservative_set": {
+      "index": 49,
+      "score": 1.3537628549264955
+    },
+    "conservative_independent": {
+      "index": 0,
+      "score": 1.5754000180199896
+    }
+  },
+  "692__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 99,
+      "score": 0.8651468488846176
+    },
+    "conservative_set": {
+      "index": 99,
+      "score": 0.6435113903560781
+    },
+    "conservative_independent": {
+      "index": 2,
+      "score": 0.13344039214331183
+    }
+  },
+  "618__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 36,
+      "score": 3.3188700153117585
+    },
+    "conservative_set": {
+      "index": 36,
+      "score": 3.185523860763815
+    },
+    "conservative_independent": {
+      "index": 2,
+      "score": 0.5610881782884276
+    }
+  },
+  "813__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 66,
+      "score": 3.9494896612733363
+    },
+    "conservative_set": {
+      "index": 66,
+      "score": 3.6905327222173185
+    },
+    "conservative_independent": {
+      "index": 4,
+      "score": 0.3779629443620661
+    }
+  },
+  "38__wikitables_composition__dev": {
+    "mean_set": {
+      "index": 111,
+      "score": 4.8850938523586755
+    },
+    "conservative_set": {
+      "index": 81,
+      "score": 4.50251491186007
+    },
+    "conservative_independent": {
+      "index": 24,
+      "score": 0.7959096357896972
+    }
+  },
+  "137__wikidata_comp__dev": {
+    "mean_set": {
+      "index": 2,
+      "score": 2.8836488729702836
+    },
+    "conservative_set": {
+      "index": 2,
+      "score": 2.522885007515436
+    },
+    "conservative_independent": {
+      "index": 2,
+      "score": 0.5200676533354711
+    }
+  },
+  "305__wikidata_comp__dev": {
+    "mean_set": {
+      "index": 43,
+      "score": 0.9183623724727566
+    },
+    "conservative_set": {
+      "index": 17,
+      "score": 0.560484446388589
+    },
+    "conservative_independent": {
+      "index": 85,
+      "score": 0.28214827881624965
+    }
+  },
+  "691__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 64,
+      "score": -2.8761911986712585
+    },
+    "conservative_set": {
+      "index": 64,
+      "score": -2.9992634769449436
+    },
+    "conservative_independent": {
+      "index": 18,
+      "score": -0.266952190633484
+    }
+  },
+  "218__wikidata_intersection__dev": {
+    "mean_set": {
+      "index": 91,
+      "score": 4.633748933815307
+    },
+    "conservative_set": {
+      "index": 91,
+      "score": 4.282908370215287
+    },
+    "conservative_independent": {
+      "index": 3,
+      "score": 0.5833986981469558
+    }
+  },
+  "1350__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 1,
+      "score": -0.4039882739859154
+    },
+    "conservative_set": {
+      "index": 1,
+      "score": -0.3332071554307925
+    },
+    "conservative_independent": {
+      "index": 0,
+      "score": 1.0885011684107853
+    }
+  },
+  "507__wikitables_simple__dev": {
+    "mean_set": {
+      "index": 0,
+      "score": -0.3894226593781718
+    },
+    "conservative_set": {
+      "index": 0,
+      "score": -0.8461270420376805
+    },
+    "conservative_independent": {
+      "index": 0,
+      "score": 0.4753190609823466
+    }
+  },
+  "714__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 84,
+      "score": 0.3306026978772365
+    },
+    "conservative_set": {
+      "index": 84,
+      "score": -0.04151306832780949
+    },
+    "conservative_independent": {
+      "index": 10,
+      "score": -0.2845593281325419
+    }
+  },
+  "259__wikidata_intersection__dev": {
+    "mean_set": {
+      "index": 59,
+      "score": 0.24678564606252068
+    },
+    "conservative_set": {
+      "index": 55,
+      "score": 0.09304905870085922
+    },
+    "conservative_independent": {
+      "index": 15,
+      "score": -0.13730098826526058
+    }
+  },
+  "871__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 31,
+      "score": 0.2985643786643465
+    },
+    "conservative_set": {
+      "index": 31,
+      "score": 0.04713345396812574
+    },
+    "conservative_independent": {
+      "index": 36,
+      "score": -0.03848905461930652
+    }
+  },
+  "339__wikidata_intersection__dev": {
+    "mean_set": {
+      "index": 27,
+      "score": 0.35517800734517513
+    },
+    "conservative_set": {
+      "index": 27,
+      "score": 0.3491851234820017
+    },
+    "conservative_independent": {
+      "index": 0,
+      "score": 0.5253767862102809
+    }
+  },
+  "956__wikidata_comp__dev": {
+    "mean_set": {
+      "index": 6,
+      "score": 4.9374302981267615
+    },
+    "conservative_set": {
+      "index": 6,
+      "score": 4.3954958610960375
+    },
+    "conservative_independent": {
+      "index": 12,
+      "score": 0.5358000904628354
+    }
+  },
+  "456__wikidata_intersection__dev": {
+    "mean_set": {
+      "index": 86,
+      "score": 0.1946651168518463
+    },
+    "conservative_set": {
+      "index": 86,
+      "score": 0.08564705009292328
+    },
+    "conservative_independent": {
+      "index": 2,
+      "score": 0.43078689404537485
+    }
+  },
+  "621__wikidata_simple__dev": {
+    "mean_set": {
+      "index": 98,
+      "score": 0.8583390771926533
+    },
+    "conservative_set": {
+      "index": 98,
+      "score": 0.9103069961318035
+    },
+    "conservative_independent": {
+      "index": 18,
+      "score": 0.31300420278654595
+    }
+  },
+  "398__wikidata_comp__dev": {
+    "mean_set": {
+      "index": 86,
+      "score": 0.8258424171736437
+    },
+    "conservative_set": {
+      "index": 86,
+      "score": 0.3631772117816811
+    },
+    "conservative_independent": {
+      "index": 13,
+      "score": 0.3998772594272636
+    }
+  }
+}

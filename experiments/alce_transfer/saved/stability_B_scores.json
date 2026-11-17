@@ -1,0 +1,4930 @@
+{
+  "624__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "624__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "d58ee0812ef2660effb5cc8e7bce25c2b4b36f7ced03d9db89895e4951b56d2b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "624__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "624__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "0e63255c713867c015f97fc244c15f2c8350913bf54229c03b69a3ad2e693b2f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "624__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "624__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "6f522862ba1bbce3188be9b05bbb4cbb6994d6285dc6bc98a46d149e87445c18",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "624__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "624__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "ea4192ae8bc24cbb2f1608a7155d3817dd7f24f05e6d8ba3d13122836a05d6c5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "624__wikidata_simple__dev|probe_0|17": {
+    "qid": "624__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      31
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "2dac611b668f5dc1bbb6b76a84b8aae37fbc4bc9c94bcf77a3b5d45f9653eb4a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "624__wikidata_simple__dev|probe_0|29": {
+    "qid": "624__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      31
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "2889b09a6c04309e794f7514164ffed18f2a1952a422a6676b6cff763555403a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "342__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "342__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "b5ae0a9d8b4085e2133abc73f62dfc7aec969f248b2f9d57b8f3ce9bc563d55d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "342__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "342__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "4291e8b2ee1d7519365ee1ca9986bddd2f55a7eb0043d7eb7d07dd50479a5c88",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "342__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "342__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "1f07ca924e4da6176acd7ce1f2ba0bbd906ff9b018c7f12e10dfc1d5da95f51d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "342__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "342__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "006dd3c470f459b5026214582f25085672d97ae9a9d1a5b12cec1eaabe471dd8",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "342__wikidata_intersection__dev|probe_0|17": {
+    "qid": "342__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      22,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "a8a0f068ae367ae0ef66f3dead3c5ba270974324b23bcbebeb0150ceb5598f5d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "342__wikidata_intersection__dev|probe_0|29": {
+    "qid": "342__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      22,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "2a2b1204821eb48d45bb0fc7a2c55fbbc5bf9ce0a1c2a633321a12fa8b67b334",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "567__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "567__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "251d1a8ab2da90a9b6b970e06228363835445e8191dea5d6440bd09cacbe78b9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 60.0,
+      "qampari_rec": 60.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 60.0,
+      "qampari_f1_top5": 60.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 75.0
+    }
+  },
+  "567__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "567__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "6bc3fbdc31e00881fc4ceb6f5b1cb43e8219a3b50e612105ac66bdaaccab9ebc",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 60.0,
+      "qampari_rec": 60.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 60.0,
+      "qampari_f1_top5": 60.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 75.0
+    }
+  },
+  "567__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "567__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "372e41492af9b50615bd76b534b555edf54771d41d47b8d34e326cbe321c6b90",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 60.0,
+      "qampari_rec": 60.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 60.0,
+      "qampari_f1_top5": 60.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 75.0
+    }
+  },
+  "567__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "567__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "1fb9d8ae96efc5905f1fde332bf187f59cbbda2918053f0b3fb951680e8aca3f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 60.0,
+      "qampari_rec": 60.0,
+      "qampari_rec_top5": 60.0,
+      "qampari_f1": 60.0,
+      "qampari_f1_top5": 60.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 75.0
+    }
+  },
+  "567__wikidata_simple__dev|probe_0|17": {
+    "qid": "567__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      22,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "9231b524dd3510d7c9adf62147092d358f7e3e854a1b74c0fd74c5d42926f1ed",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 80.0,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 72.72727272727272,
+      "qampari_f1_top5": 72.72727272727272,
+      "citation_rec": 83.33333333333334,
+      "citation_prec": 85.71428571428571,
+      "utility": 77.66990291262137
+    }
+  },
+  "567__wikidata_simple__dev|probe_0|29": {
+    "qid": "567__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      22,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "c0389415500e8992df5f758535d5fa2296159026918919f8184fb0640b061e74",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 80.0,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 72.72727272727272,
+      "qampari_f1_top5": 72.72727272727272,
+      "citation_rec": 83.33333333333334,
+      "citation_prec": 75.0,
+      "utility": 77.66990291262137
+    }
+  },
+  "593__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "593__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "2ff1d171f5d14a336c82bd4725b93e5953beb90e060b3b799eb2592abeb26487",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "593__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "593__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "b9dd9b6bc254721be49695dfc6d60e5e2952fe0d16ae524b0c37dd4fa0dc2de4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "593__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "593__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "64bc6a6996dc112d308f448dfbb6b4b7f57843e455a77b1887fd7f49ee2e4005",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "593__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "593__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "919a08a41996a48d35b6fc73e55a14b086f7d98140879f8f3f08ed823574d7cd",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "593__wikidata_simple__dev|probe_0|17": {
+    "qid": "593__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      33
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "505faa90c24da6235153761bcb2a0aae5797e2ca81b11241c8c11807d017bd4d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "593__wikidata_simple__dev|probe_0|29": {
+    "qid": "593__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      33
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "c65a20aaf71235ba669e8930ea82845c1d95364b6c5415dfb68dc9843c04ce19",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "155__wikidata_comp__dev|pilot_retained|17": {
+    "qid": "155__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "15db599252b77e0fcc5342a89636daa26f00e0a97688600988944300a3dd0ce9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "155__wikidata_comp__dev|pilot_retained|29": {
+    "qid": "155__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "40df71410beb92a335c543403e2130c6fa1675dca2bcb7c7561a29dace8d3db4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "155__wikidata_comp__dev|gtr_top5|17": {
+    "qid": "155__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "c70f5d54ec604e7099d60cfc7e48c4dd22e6c45975f7a34e137e787d12ddcd67",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "155__wikidata_comp__dev|gtr_top5|29": {
+    "qid": "155__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "509fa2e117a0dc30d550f1914619bd8d72a11629f3bee786931fe9e54f978aaa",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "155__wikidata_comp__dev|probe_0|17": {
+    "qid": "155__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      36,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "74e0fffc76cc2076eef80ef8ae96bfa93122e121f18d2604cba378d510854a17",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "155__wikidata_comp__dev|probe_0|29": {
+    "qid": "155__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      36,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "6e71be9e424cdc26bd4a4f142a0fe6ff81228147e99c6b51fb9a26f7bd35a0ac",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "864__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "864__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "8196756858979fc4e822f0a2d6e4c921fe13c03716e3246f85e439fb4e2ee704",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 40.0
+    }
+  },
+  "864__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "864__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "6cecd58acfa9e78af695e38d4ec4d4f0cea15f1954da8666e748e73575a00bf6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 40.0
+    }
+  },
+  "864__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "864__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "e41598c868b1f1554a08dc4c7a25b98347a051159ec3da114c209a3ab53a8593",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 40.0
+    }
+  },
+  "864__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "864__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "a1fb163d0016466006f8604040158d562e62c728cbb3a4a4beb643d9e2cbb6f3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 40.0
+    }
+  },
+  "864__wikidata_simple__dev|probe_0|17": {
+    "qid": "864__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      21,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "1d3630ff8057f136f914ff5b29eae8924aa555efbd61658c11499cf2ba56cb67",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.222222222222225,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 36.36363636363637
+    }
+  },
+  "864__wikidata_simple__dev|probe_0|29": {
+    "qid": "864__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      21,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "4e65ac303d0d894c05bdf6380439f15a70b340fb313c0e70762eaa3747e4e9d1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.222222222222225,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 36.36363636363637
+    }
+  },
+  "217__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "217__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "384e7dc439ff21fde54c61b4baee0abbb0eae733c01681fae0d5600ad3be878e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "217__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "217__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "341238adb4947821eafe7292fe9b5a605b93bf63fb6e7c7de179a24c4209e071",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "217__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "217__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "2cf2e5e3c0ab709a739c3129530f7dc98c242f87672f3221e673b758c8140360",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "217__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "217__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "c060e2b455f7dbb4c483c8a4b21810fd1a9b3d01cce9cc1f48510ef1d955a0ba",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 57.14285714285715,
+      "qampari_f1_top5": 57.14285714285715,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "217__wikidata_intersection__dev|probe_0|17": {
+    "qid": "217__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      18,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "c8a7afad413ea279fcb1044b3eb2739fdfbae5ad32e06058151f6d0372a19532",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "217__wikidata_intersection__dev|probe_0|29": {
+    "qid": "217__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      18,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "936c498f1d7d0991a847782ec1156612e0970ed929685ff0f6cb44d23af9f26a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 50.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 28.571428571428577,
+      "qampari_f1_top5": 28.571428571428577,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "686__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "686__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "583b6a36e47ff9700d47319c14efe585c07931353bb40f4a6deb9b1820399d4a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "686__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "686__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "bc9a253c75358eede58a541e64cb09eac261b18c5e07a6743eb10711fb2d2f3d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "686__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "686__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "a2eb5808b84889a1b2880355335792d6260c5ad49dcef8869729695d0c65d185",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "686__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "686__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "42155b244a660ce512ba4f7f8b18e66d7eb9e298844bca77fbb76bf9822c7792",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "686__wikidata_simple__dev|probe_0|17": {
+    "qid": "686__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "495dd235125a469e2f2d95777d8c827beece8928f19d9dbd80d811c04916a993",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "686__wikidata_simple__dev|probe_0|29": {
+    "qid": "686__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "57b90abc541bf063070645bc5b5a7fe0935cfe381b005d544cdb5f4f332de350",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "796__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "796__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "63efb5682c30ec5284d8dfb1253176dc62c780a9b690166b28bee4e9b3d5a7bc",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "796__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "796__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "df94ef5b3e33be0bedb1695fe6b1ce000e5c0e9b2d68731bea71b64d4c3758e7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "796__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "796__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "cf93ebd7f3229686e677a09899d0c8849179d0d53d49f33a55afa76696ae357f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "796__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "796__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "5c184c41ab189515332550557e62c5be3aa00516b736edcd3db980e7e57f6e24",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "796__wikidata_simple__dev|probe_0|17": {
+    "qid": "796__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      7
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "0f8e59a729b0844fc003db6c0c894ab8afaf826f58f4359aae6e5071b09c1d0d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "796__wikidata_simple__dev|probe_0|29": {
+    "qid": "796__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      7
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "bce0f318f2888fc0b6cfe2fc8186269b9772abf94b3c27dac839bad1298747df",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "535__wikitables_simple__dev|pilot_retained|17": {
+    "qid": "535__wikitables_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "d65ee4617bdd6a5bc1da86fca786a33dcd7a99e9717e41fecb85a00b8dc5141b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 3.571428571428571,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.25,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "535__wikitables_simple__dev|pilot_retained|29": {
+    "qid": "535__wikitables_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "8d5452c083ea13e9ca2d87bb3adf101d19075831bfd4d0c2d69b8d405cb804f9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 3.571428571428571,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.25,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "535__wikitables_simple__dev|gtr_top5|17": {
+    "qid": "535__wikitables_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "9f4f1cfec8d3207389c60bc566a794ddf7d31f5985952be3661c26c094d3f225",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 3.571428571428571,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.25,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "535__wikitables_simple__dev|gtr_top5|29": {
+    "qid": "535__wikitables_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "e0ca65d11880946fa567a5b514019dbb590eff1d12137c09fdb64c75d30f46c0",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 3.571428571428571,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.25,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "535__wikitables_simple__dev|probe_0|17": {
+    "qid": "535__wikitables_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      8
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "62cb31b307fbf29ea6a65236438c7d41fc23a8cc4f972d1c9a81d6d70231b8ce",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 20.0,
+      "qampari_rec": 3.571428571428571,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.0606060606060606,
+      "qampari_f1_top5": 20.000000000000004,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "535__wikitables_simple__dev|probe_0|29": {
+    "qid": "535__wikitables_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      8
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "d40bc708a0972e7fc895bfd52419123e2de9794cb7e31c17d5eed836480a782b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 20.0,
+      "qampari_rec": 3.571428571428571,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.0606060606060606,
+      "qampari_f1_top5": 20.000000000000004,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "293__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "293__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "116fe6bc544a10ce260578e0db7ad589e30b83d300752db2c62bef36de588cab",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "293__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "293__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "3479aa0d23c6ea85342eb518854d962a0797b600e28ab8e6c44a7263989dcf73",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "293__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "293__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "2b8612a1499846a2d3ee081de2784cbe98212e337898266cd42e7ee2967d31d9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "293__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "293__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "4aa2fef82237a0e019ab8957ac06aaeee0f2d17837c076952fb17e5dc025bafa",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "293__wikidata_intersection__dev|probe_0|17": {
+    "qid": "293__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      27
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "92f46a0e7e64b12609c5dac676791d64ef46363c9539db5faa418e5352ab913e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "293__wikidata_intersection__dev|probe_0|29": {
+    "qid": "293__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      27
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "dd6143e5efc490bcfa04922c856fac884b22a2f22657a8ba9643f5752fd84506",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "146__wikidata_comp__dev|pilot_retained|17": {
+    "qid": "146__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "2d47145a43f06c391bd08880548f53d2c06e2407f13fd97f7b9c7bc6b79d0e62",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 31.25,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 47.61904761904761,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "146__wikidata_comp__dev|pilot_retained|29": {
+    "qid": "146__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "a9b9ca7f6e88d354e269aeb3ea6be6a63e520ba7acdf6439a14e8a9dec215ccd",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 31.25,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 47.61904761904761,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "146__wikidata_comp__dev|gtr_top5|17": {
+    "qid": "146__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "038ce268fb0294821de4deb210cf1616985d4b7cb4583c8d37ac6d5051f1c111",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 43.75,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 60.86956521739131,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "146__wikidata_comp__dev|gtr_top5|29": {
+    "qid": "146__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "a130695dc7fb60c5f7b1a51951fd5067b0e3884f10d08a90ffb8172ca23839b7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 43.75,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 60.86956521739131,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "146__wikidata_comp__dev|probe_0|17": {
+    "qid": "146__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      31,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "f6a13e452758b900f8417d23fd6411dddde118aa3a298ad69148c0709ac54aa5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 75.0,
+      "qampari_rec": 31.25,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 44.11764705882353,
+      "qampari_f1_top5": 85.71428571428571,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 92.30769230769229
+    }
+  },
+  "146__wikidata_comp__dev|probe_0|29": {
+    "qid": "146__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      31,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "8b3f802aaa1396023317b5e3d2ae02b48f673d2cf125505e60161926720196e8",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 75.0,
+      "qampari_rec": 31.25,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 44.11764705882353,
+      "qampari_f1_top5": 85.71428571428571,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 92.30769230769229
+    }
+  },
+  "74__wikitables_composition__dev|pilot_retained|17": {
+    "qid": "74__wikitables_composition__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "8f754c6f1d4c26a6641f5b472b7b8e8ba81539099e72c58ab43c0947f5879f8b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "74__wikitables_composition__dev|pilot_retained|29": {
+    "qid": "74__wikitables_composition__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "20d4cdf02939b8ac340efb1382c101d6e14c8bacaa3eb75a8e834f127d93de9f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "74__wikitables_composition__dev|gtr_top5|17": {
+    "qid": "74__wikitables_composition__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "3fd5158782988fdb59e43b424749b4e61f878cc4d1d2cbc1ab232d53fe202cfb",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "74__wikitables_composition__dev|gtr_top5|29": {
+    "qid": "74__wikitables_composition__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "47d020474050d74e07a593b573d8ebc856844c27e589d2ab5e85217b76a16e44",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "74__wikitables_composition__dev|probe_0|17": {
+    "qid": "74__wikitables_composition__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      7,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "5abcf0a721435d566b9bddb1de8d39ae8abbf530e981d42eebacf0a9d9a50558",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "74__wikitables_composition__dev|probe_0|29": {
+    "qid": "74__wikitables_composition__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      7,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "9b3dc2e6c36f48a0c819ce5cef5786c71a28dbde1be489c0180f554d32ef7b1b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "872__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "872__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "1c9ce78ecd7f426321140713286875692ebc2545f69c8bfb0663e82a6f32c99a",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 66.66666666666666,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 80.0,
+      "qampari_f1_top5": 88.8888888888889,
+      "citation_rec": 100.0,
+      "citation_prec": 75.0,
+      "utility": 94.11764705882354
+    }
+  },
+  "872__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "872__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "292e57bf5c63ff54432825431dbb581aa95f933c7f0a65a194964a5083db7026",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 66.66666666666666,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 80.0,
+      "qampari_f1_top5": 88.8888888888889,
+      "citation_rec": 100.0,
+      "citation_prec": 75.0,
+      "utility": 94.11764705882354
+    }
+  },
+  "872__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "872__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "30748129aec3ec91b7599f51fe5bad5658509a21b26c43082933f0e27bb57975",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 66.66666666666666,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 80.0,
+      "qampari_f1_top5": 88.8888888888889,
+      "citation_rec": 100.0,
+      "citation_prec": 75.0,
+      "utility": 94.11764705882354
+    }
+  },
+  "872__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "872__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "8a0c101abb0c13c25fc1f7a515747c02d178914056d6c7e8766ab4f7d7a892b1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 66.66666666666666,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 80.0,
+      "qampari_f1_top5": 88.8888888888889,
+      "citation_rec": 100.0,
+      "citation_prec": 75.0,
+      "utility": 94.11764705882354
+    }
+  },
+  "872__wikidata_simple__dev|probe_0|17": {
+    "qid": "872__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "8bb4dad9ba421e479b9e1dcf8aa6b59313852d9aab209ccd880c39bed08e31bb",
+    "valid": true,
+    "metrics": {
+      "num_preds": 9.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 100.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 80.0,
+      "qampari_f1_top5": 80.0,
+      "citation_rec": 100.0,
+      "citation_prec": 86.66666666666667,
+      "utility": 88.88888888888889
+    }
+  },
+  "872__wikidata_simple__dev|probe_0|29": {
+    "qid": "872__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      9
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "104b5e8ad5fdd58ecaf2d8116f6b8b7a59df9d33fcbd02887540b6faaf84dffa",
+    "valid": true,
+    "metrics": {
+      "num_preds": 9.0,
+      "qampari_prec": 66.66666666666666,
+      "qampari_rec": 100.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 80.0,
+      "qampari_f1_top5": 80.0,
+      "citation_rec": 100.0,
+      "citation_prec": 86.66666666666667,
+      "utility": 88.88888888888889
+    }
+  },
+  "153__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "153__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "332a8725a0b9668364981cca3a16ca484d7ca68e9f65980cf2a4a8ed61c93839",
+    "valid": true,
+    "metrics": {
+      "num_preds": 12.0,
+      "qampari_prec": 58.333333333333336,
+      "qampari_rec": 100.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 73.68421052631578,
+      "qampari_f1_top5": 73.68421052631578,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "153__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "153__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "47efeeea1473f69141971e047cfa42c485af02965260f3b394207f2198a31db6",
+    "valid": true,
+    "metrics": {
+      "num_preds": 12.0,
+      "qampari_prec": 58.333333333333336,
+      "qampari_rec": 100.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 73.68421052631578,
+      "qampari_f1_top5": 73.68421052631578,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "153__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "153__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "eeba8081bd087a0049bbfbee47dda2c6af83a011f90cfcf4fd1a3d48d5042dbb",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "153__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "153__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "a7ba751c2ea31b7ecfa3d7f30d144dc5676ffc1e28ab0cb52b9ec954fbc034fd",
+    "valid": true,
+    "metrics": {
+      "num_preds": 12.0,
+      "qampari_prec": 58.333333333333336,
+      "qampari_rec": 100.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 73.68421052631578,
+      "qampari_f1_top5": 73.68421052631578,
+      "citation_rec": 8.333333333333332,
+      "citation_prec": 15.384615384615385,
+      "utility": 14.97326203208556
+    }
+  },
+  "153__wikidata_intersection__dev|probe_0|17": {
+    "qid": "153__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      5,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "4772a68832ba1becf7a3bcca6074f00f93603a0feb24bbcad57ac7d7eee090df",
+    "valid": true,
+    "metrics": {
+      "num_preds": 12.0,
+      "qampari_prec": 58.333333333333336,
+      "qampari_rec": 100.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 73.68421052631578,
+      "qampari_f1_top5": 73.68421052631578,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "153__wikidata_intersection__dev|probe_0|29": {
+    "qid": "153__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      5,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "5fe2fe9284d982fa37b5020e25d449767ee3fd1f3816f806e40cba126fc412de",
+    "valid": true,
+    "metrics": {
+      "num_preds": 12.0,
+      "qampari_prec": 58.333333333333336,
+      "qampari_rec": 100.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 73.68421052631578,
+      "qampari_f1_top5": 73.68421052631578,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "106__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "106__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "1a0a74e2b8c97f99b9c572c781a5fda6b7378df1b474ef2bc3bae79c6bda0542",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 28.57142857142857,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 44.44444444444445,
+      "qampari_f1_top5": 57.14285714285715,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 72.72727272727273
+    }
+  },
+  "106__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "106__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "7af6cdbd4175a6f3c80a52fe65e6c3c70a69d0028e23eb7127871b357f175902",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 28.57142857142857,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 44.44444444444445,
+      "qampari_f1_top5": 57.14285714285715,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 72.72727272727273
+    }
+  },
+  "106__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "106__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "0c0ce48723853cdbb6aee9d693424ffa55ed56c371450a0c006a8f11d302282f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 28.57142857142857,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 44.44444444444445,
+      "qampari_f1_top5": 57.14285714285715,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 72.72727272727273
+    }
+  },
+  "106__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "106__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "4593d21f9685c11f7c7f34cac2a497c62d9cea4e1494dfef99f62341af2aec91",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 28.57142857142857,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 44.44444444444445,
+      "qampari_f1_top5": 57.14285714285715,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 72.72727272727273
+    }
+  },
+  "106__wikidata_intersection__dev|probe_0|17": {
+    "qid": "106__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "384be35c4e6d6778c4f09868167c547d5fc7c95bea82a9131e9a09a2b492a45c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 14.285714285714285,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "106__wikidata_intersection__dev|probe_0|29": {
+    "qid": "106__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "567c03f0bff649017fe7985f235738f5c734e1bb11a315847603723d52bf6769",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 14.285714285714285,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 25.0,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 50.0
+    }
+  },
+  "338__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "338__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "82a6735c5c9a4d90abbd30694db5619672211e1bef54b5478ef623dc27c31d05",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "338__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "338__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "8fa8a445d34de014803c0e799c92624d4f575a760dcb7f48baecac88df52b584",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "338__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "338__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "0966748ebeae1674a0e407f67b82cb2dc723b325659d867fcaa45857bcd5fdde",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "338__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "338__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "349c84920b4c01a7277d99a2a4c1ebdcd81ac26f2e8b60c8b18a885764a53b41",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "338__wikidata_intersection__dev|probe_0|17": {
+    "qid": "338__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      41,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "dc3f98b839e0c5b012dba2842b02486641bfc3cf8a52035aa90c2b766efd7c27",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "338__wikidata_intersection__dev|probe_0|29": {
+    "qid": "338__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      41,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "9333d41dc6dbd84807f90d7c9458ee4f87b802f228cbd18d07c11991d960c545",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "324__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "324__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "8bb12466fca63fe088b3491b16119e5a2ce8987c907e69e8feb55c597202db02",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 40.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 40.00000000000001,
+      "qampari_f1_top5": 40.00000000000001,
+      "citation_rec": 20.0,
+      "citation_prec": 11.11111111111111,
+      "utility": 26.666666666666668
+    }
+  },
+  "324__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "324__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "8d822d7e272e7fb3beac3cef10635506ad7d8bedc7c1a3e610e59cd6cb216e78",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 40.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 40.00000000000001,
+      "qampari_f1_top5": 40.00000000000001,
+      "citation_rec": 20.0,
+      "citation_prec": 11.11111111111111,
+      "utility": 26.666666666666668
+    }
+  },
+  "324__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "324__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "2fbf75cc0fc2d6e1cd230d01f01a4aa51fe43f468e24c15a13d5a10465b5aae2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 40.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 40.00000000000001,
+      "qampari_f1_top5": 40.00000000000001,
+      "citation_rec": 40.0,
+      "citation_prec": 20.0,
+      "utility": 40.00000000000001
+    }
+  },
+  "324__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "324__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "8b773120253feb2d52a032ee497e0405c0660aee051ce3f0878544b5953ff934",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 40.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 40.00000000000001,
+      "qampari_f1_top5": 40.00000000000001,
+      "citation_rec": 40.0,
+      "citation_prec": 20.0,
+      "utility": 40.00000000000001
+    }
+  },
+  "324__wikidata_intersection__dev|probe_0|17": {
+    "qid": "324__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      11,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "1ccafffdd456bdb3d1a80b3ad0a6f0769f74af494436daf5079f57a6120ee1f1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 40.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 40.00000000000001,
+      "qampari_f1_top5": 40.00000000000001,
+      "citation_rec": 40.0,
+      "citation_prec": 20.0,
+      "utility": 40.00000000000001
+    }
+  },
+  "324__wikidata_intersection__dev|probe_0|29": {
+    "qid": "324__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      11,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "a9b98261f43048c29d234f134e7462c73e1b2410afacb2da584b8e0d7b58ab5d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 40.0,
+      "qampari_rec": 40.0,
+      "qampari_rec_top5": 40.0,
+      "qampari_f1": 40.00000000000001,
+      "qampari_f1_top5": 40.00000000000001,
+      "citation_rec": 40.0,
+      "citation_prec": 20.0,
+      "utility": 40.00000000000001
+    }
+  },
+  "520__wikitables_simple__dev|pilot_retained|17": {
+    "qid": "520__wikitables_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "aa08ad1008f7d0e766a6b83bd9af2ca6b876dd0a006274dd57500ea3407be5e3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 16.666666666666664,
+      "qampari_rec": 8.333333333333332,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 11.11111111111111,
+      "qampari_f1_top5": 18.18181818181818,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 30.769230769230766
+    }
+  },
+  "520__wikitables_simple__dev|pilot_retained|29": {
+    "qid": "520__wikitables_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "2e3bd27b1fc0cf0ca0e2c00e4e48efcfd51db2ea3e82d9a0ccadbe024283296b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 16.666666666666664,
+      "qampari_rec": 8.333333333333332,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 11.11111111111111,
+      "qampari_f1_top5": 18.18181818181818,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 30.769230769230766
+    }
+  },
+  "520__wikitables_simple__dev|gtr_top5|17": {
+    "qid": "520__wikitables_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "f624873a18e160ee0b58f7b05d39a013d2637e686c882d01f41209b72bfc6c7d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 16.666666666666664,
+      "qampari_rec": 8.333333333333332,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 11.11111111111111,
+      "qampari_f1_top5": 18.18181818181818,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 30.769230769230766
+    }
+  },
+  "520__wikitables_simple__dev|gtr_top5|29": {
+    "qid": "520__wikitables_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "17bc4e18f3502805931e0523ae6160e2ca35daa4c4ef270359b9a14e56db67b7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 16.666666666666664,
+      "qampari_rec": 8.333333333333332,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 11.11111111111111,
+      "qampari_f1_top5": 18.18181818181818,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 30.769230769230766
+    }
+  },
+  "520__wikitables_simple__dev|probe_0|17": {
+    "qid": "520__wikitables_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      36
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "5849abc882e615d58f4f55a5e4be7f5ce14da64e37461357bed49523d295a621",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 14.285714285714285,
+      "qampari_rec": 8.333333333333332,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 10.526315789473685,
+      "qampari_f1_top5": 16.666666666666664,
+      "citation_rec": 85.71428571428571,
+      "citation_prec": 85.71428571428571,
+      "utility": 27.90697674418604
+    }
+  },
+  "520__wikitables_simple__dev|probe_0|29": {
+    "qid": "520__wikitables_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      36
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "574b71ab72dd6c95c8438ebb93f5dfeba3c0e524ca6b2a1d2228c8b33dd3af55",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 14.285714285714285,
+      "qampari_rec": 8.333333333333332,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 10.526315789473685,
+      "qampari_f1_top5": 16.666666666666664,
+      "citation_rec": 85.71428571428571,
+      "citation_prec": 85.71428571428571,
+      "utility": 27.90697674418604
+    }
+  },
+  "778__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "778__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "a6865a01a5f993c484ee692b910a747fea7b2940945b021326fb7e44f5b77cc4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "778__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "778__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "766f861d4421d1fab5c7799fb595bf07f3b7216647ee640a73c7941e0a2099ba",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "778__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "778__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "abef2335effcf5b06efd9a3629c459a863102e53ea74daac6beea2659ffb0651",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "778__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "778__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "7d604aefe43b2d631b6bc09032aaf08a442c08419e8321797bc0dd779df96847",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "778__wikidata_simple__dev|probe_0|17": {
+    "qid": "778__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      19,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "f4df735b05a97f805d295f474b9f4ce1f8a0df563d54d6bfc68d40dfa7dc7be1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "778__wikidata_simple__dev|probe_0|29": {
+    "qid": "778__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      19,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "ab545d0af1bce19181bca5cdd66fc7fda1e68547780948434aaa57e7e902b76b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "446__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "446__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "3043b5849a1c3812645b2e394708d09703f3a5110d0d5a0ad3ad269cd0950f34",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 3.8461538461538463,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.4074074074074066,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 50.0
+    }
+  },
+  "446__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "446__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "ed6e8121d67de22e41141ed6f26d49bf65be7573b7f9661f24c353de316737c2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 3.8461538461538463,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.4074074074074066,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 50.0
+    }
+  },
+  "446__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "446__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "550c745f35be01f10d9c51a7d58c9f40b0f518cc0c6218b742e00450fdb0fb96",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 3.8461538461538463,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.4074074074074066,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 50.0
+    }
+  },
+  "446__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "446__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "7c3cc78c2c0b4addc7c2205282504dc5bfae3ff17959f2d2f9a5ec1a9c5057f7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 3.8461538461538463,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.4074074074074066,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 50.0
+    }
+  },
+  "446__wikidata_intersection__dev|probe_0|17": {
+    "qid": "446__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      16
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "15d98de641a44d507cf54bb25981d438286de899aab467b5e5b8d1d65297090e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 3.8461538461538463,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.4074074074074066,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 50.0
+    }
+  },
+  "446__wikidata_intersection__dev|probe_0|29": {
+    "qid": "446__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      16
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "b8368dc1e28b9b4b7f61e9c298f982c2c76a582072591f63ad5b109a5a1676dd",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 3.8461538461538463,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.4074074074074066,
+      "qampari_f1_top5": 33.333333333333336,
+      "citation_rec": 100.0,
+      "citation_prec": 66.66666666666666,
+      "utility": 50.0
+    }
+  },
+  "564__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "564__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "7f77bea9517f10a4228d4d97c148c8d7bb8c88d35c0b6a75a0fac60e7e43ecb9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 25.0,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 22.222222222222225,
+      "qampari_f1_top5": 22.222222222222225,
+      "citation_rec": 50.0,
+      "citation_prec": 33.33333333333333,
+      "utility": 30.769230769230774
+    }
+  },
+  "564__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "564__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "209912a12098c6431d8c9e3b256f478365b61f16a0e0223063c1983b7d76892d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 14.285714285714285,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 16.666666666666664,
+      "qampari_f1_top5": 16.666666666666664,
+      "citation_rec": 42.857142857142854,
+      "citation_prec": 60.0,
+      "utility": 23.999999999999996
+    }
+  },
+  "564__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "564__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "1d83245189491bf50c0cf3b2e8e6d402e1290180864c2e4bbf4c93e9950bec29",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 14.285714285714285,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 16.666666666666664,
+      "qampari_f1_top5": 16.666666666666664,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "564__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "564__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "32ca808a0de828c5930dbf7eed98387f0c8e0cabc32ee8fc7cd85c4313644c52",
+    "valid": true,
+    "metrics": {
+      "num_preds": 8.0,
+      "qampari_prec": 12.5,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 15.384615384615385,
+      "qampari_f1_top5": 15.384615384615385,
+      "citation_rec": 12.5,
+      "citation_prec": 50.0,
+      "utility": 13.793103448275861
+    }
+  },
+  "564__wikidata_simple__dev|probe_0|17": {
+    "qid": "564__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      46,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "0203af257fba9b492e0c0695325e0376543c730ec7d568a32bdace591c496bad",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 14.285714285714285,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 16.666666666666664,
+      "qampari_f1_top5": 16.666666666666664,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "564__wikidata_simple__dev|probe_0|29": {
+    "qid": "564__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      46,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "2b8cd83ef69dcee6f77e0bdc918ba9cb1ee76839ab0316c11e59e1b8295c158d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 8.0,
+      "qampari_prec": 12.5,
+      "qampari_rec": 20.0,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 15.384615384615385,
+      "qampari_f1_top5": 15.384615384615385,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "351__wikidata_comp__dev|pilot_retained|17": {
+    "qid": "351__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "607a5665cccdd1abda2ee34eff6081bd76c09d608009185664709591f0a888c3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 16.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 27.58620689655173,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "351__wikidata_comp__dev|pilot_retained|29": {
+    "qid": "351__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "cb1d19dc73c425c9eb01b661a8f2cf9067d49ce95fdf1301a3ff8db1a544cbb1",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 16.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 27.58620689655173,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "351__wikidata_comp__dev|gtr_top5|17": {
+    "qid": "351__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "85f6a68b80b46e671832562835752400b73d2e1b04c484520e8ae0d1932b9e6f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 17.333333333333336,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 29.545454545454547,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "351__wikidata_comp__dev|gtr_top5|29": {
+    "qid": "351__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "50b012e74e652a9ad5bab489157de75bb5dd6955b80136a8eee6d6605d29a25c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 17.333333333333336,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 29.545454545454547,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "351__wikidata_comp__dev|probe_0|17": {
+    "qid": "351__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      31
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "5e6c76acf04f31dffd8e61adf681de8150919110517e40d53c213615f1663fb4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 16.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 27.58620689655173,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "351__wikidata_comp__dev|probe_0|29": {
+    "qid": "351__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      31
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "1769d831f0aa232e0fdcaf6acbcb8bb46940e5352f29b010748419ad0f087403",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 16.0,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 27.58620689655173,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 100.0
+    }
+  },
+  "6__wikitables_composition__dev|pilot_retained|17": {
+    "qid": "6__wikitables_composition__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "71a94f0ebe147f12cae618ee5c53946fc40511a53d355e5035fce0bd0f93f20b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "6__wikitables_composition__dev|pilot_retained|29": {
+    "qid": "6__wikitables_composition__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "142382aeacf8c2bd05e88a8041e59b7473b277e3ef1b25cf3bc324940d104460",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "6__wikitables_composition__dev|gtr_top5|17": {
+    "qid": "6__wikitables_composition__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "15cf188045c8d003f1b09802457baad0b21ce91ab10d19636c26553dbf6c0019",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "6__wikitables_composition__dev|gtr_top5|29": {
+    "qid": "6__wikitables_composition__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "d9a67a4c22cd062c33677ce9ddf0191aa6522a87c61986f58944c01931ac723e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "6__wikitables_composition__dev|probe_0|17": {
+    "qid": "6__wikitables_composition__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      18
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "a10dcac2a3e4bdfcc29fda7c581b0504bb9baf812e56a3ffe359c49b08883c27",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "6__wikitables_composition__dev|probe_0|29": {
+    "qid": "6__wikitables_composition__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      18
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "c99b2a09b2ef917f1e197dbf48608e89e1db5c2cc6299196229926b88ed7eb6d",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "37__wikitables_composition__dev|pilot_retained|17": {
+    "qid": "37__wikitables_composition__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "3713c153e81ee2d807b4fbfe4ac77ab1472b89ab26e7dfb139b6326361e6774c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "37__wikitables_composition__dev|pilot_retained|29": {
+    "qid": "37__wikitables_composition__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "b29d9fd3c980d83d6526a6713aa9e54b6d71de49c2749b4b3c0fdcadba5b04b8",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "37__wikitables_composition__dev|gtr_top5|17": {
+    "qid": "37__wikitables_composition__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "8c870adee2da9db04bf45e5fbfa15b137df3ea2db6b0dec8562e2ed061faba8f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "37__wikitables_composition__dev|gtr_top5|29": {
+    "qid": "37__wikitables_composition__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "b1f5276a978de5f8d65faabf48c285572f934f86f8c7d62f91d94a2ffad068f7",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "37__wikitables_composition__dev|probe_0|17": {
+    "qid": "37__wikitables_composition__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      9,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "5e434b8c1c2a6dc8c10eb10d0e868e8ac340ce5d27635a3efbe4d13055d5481f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "37__wikitables_composition__dev|probe_0|29": {
+    "qid": "37__wikitables_composition__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      9,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "b32cf0693a216bbb25afa7ed0ff8a080ac5202e67ca95f86aeff7620014de072",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "228__wikidata_comp__dev|pilot_retained|17": {
+    "qid": "228__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "e67cbb4f0804abc0bf169f9b3a1b3dd906b3e43de5a9e504923581b1282a6018",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "228__wikidata_comp__dev|pilot_retained|29": {
+    "qid": "228__wikidata_comp__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "4e39101d4db4f3d8bd807f1bff675408463d3dbdad2f4ae09ceacb3594402078",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "228__wikidata_comp__dev|gtr_top5|17": {
+    "qid": "228__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "839b7b616ea24572c85193dee6b39fcf147566fddea02b6b1089a7a9d0632ca3",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "228__wikidata_comp__dev|gtr_top5|29": {
+    "qid": "228__wikidata_comp__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "e678cc3b26414a2159714e512d2980ce987e348cb7d3b718c02313c5facbc920",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "228__wikidata_comp__dev|probe_0|17": {
+    "qid": "228__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      15,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "06e621c93039c54cadf97992d6c433453d5bb019a362f28125724e4a7ede6246",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "228__wikidata_comp__dev|probe_0|29": {
+    "qid": "228__wikidata_comp__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      15,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "00c83c1ed8ec3c9b0a8d0df0e81e1792567b707a03df24cd41a746c5f87c7dfb",
+    "valid": true,
+    "metrics": {
+      "num_preds": 0.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "749__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "749__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "06f79560d4a2b219729cbff9374a4ab14a87d3ee5c5508ecff2c862b984aec93",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 50.0,
+      "citation_prec": 33.33333333333333,
+      "utility": 0.0
+    }
+  },
+  "749__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "749__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "a78dc7a8c804c57cda00b5bd987df1ebb5e3922e0a04a6f2de6fc43e48d236db",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 40.0,
+      "citation_prec": 40.0,
+      "utility": 0.0
+    }
+  },
+  "749__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "749__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "bc923dabfa4b2dc79c4c26939e0df4993f47c02d0827e2a07d546666bd13f6f5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "749__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "749__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "e3b82d5bd8f1c4852215d8039b3266f36bdb248063d07fc8747181db86fb0d22",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "749__wikidata_simple__dev|probe_0|17": {
+    "qid": "749__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      8,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "77ae07487ad80bbbdb67667a622b8870877cac2fc5dcf3de002379ae05d0853c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "749__wikidata_simple__dev|probe_0|29": {
+    "qid": "749__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      8,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "5e167aefd61d5e39302889c30b7e85cef10ad1924ad6dc90ad2ac149b12a2d7c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "802__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "802__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "c79f94c7c037ddc8a15911a638c61276f67ab4dbfd43009e8f64166a25620864",
+    "valid": true,
+    "metrics": {
+      "num_preds": 9.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 22.22222222222222,
+      "citation_prec": 30.0,
+      "utility": 0.0
+    }
+  },
+  "802__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "802__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "541bef1f65f78307f1807582e214c4f7a803aa49892c4dcf77c5403dee832251",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 33.33333333333333,
+      "citation_prec": 42.857142857142854,
+      "utility": 0.0
+    }
+  },
+  "802__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "802__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "afeccac8a7ec7a6380737b83792d5157552d99c2d49c694259afba71b4f3259b",
+    "valid": true,
+    "metrics": {
+      "num_preds": 7.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 14.285714285714285,
+      "citation_prec": 9.090909090909092,
+      "utility": 0.0
+    }
+  },
+  "802__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "802__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "3e973d8285f8907e330e92cc8efddb3e8fe0bcf0ec74793360b32596cb9baac9",
+    "valid": true,
+    "metrics": {
+      "num_preds": 8.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 12.5,
+      "citation_prec": 8.333333333333332,
+      "utility": 0.0
+    }
+  },
+  "802__wikidata_simple__dev|probe_0|17": {
+    "qid": "802__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      19,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "b01228d3bf875174c748651e4dc6bc8d120c73c00feb7759c14fcbafc5d7a67c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 16.666666666666664,
+      "citation_prec": 25.0,
+      "utility": 0.0
+    }
+  },
+  "802__wikidata_simple__dev|probe_0|29": {
+    "qid": "802__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      19,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "840ca4491eca97a24615124c18548b7aed7f1e3004baa33f5b7980e7d425019e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 6.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 16.666666666666664,
+      "citation_prec": 25.0,
+      "utility": 0.0
+    }
+  },
+  "642__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "642__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "2b8f928379292de35a8df2d437f3713bdd71f851bd39603643a47ad5bf857db4",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "642__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "642__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "98dccde967527b68d331b5df60e9748fee7a7c74114be65db401bacdcca0577e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "642__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "642__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "d45c31156065d9f87790a4a015888bcf34166d1fbdc96a0e7729bb7442bb7d24",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "642__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "642__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "3c7d216dfc77dd7a83032d66188f45c9a88c1a1fc662a0a7a3bf338cc12c029c",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "642__wikidata_simple__dev|probe_0|17": {
+    "qid": "642__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      11,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "9d33a37fed5e972d7d9fc1d52144f7d37f2747884e050ad21892053102ca5a4e",
+    "valid": true,
+    "metrics": {
+      "num_preds": 2.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "642__wikidata_simple__dev|probe_0|29": {
+    "qid": "642__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      11,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "c0eadaad39d4cf085b3689e32c33e0bd318036e7466868c837096341a8cf11eb",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "240__wikidata_intersection__dev|pilot_retained|17": {
+    "qid": "240__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "7e96211815a294493d06f6c103c35b6a025dba9ac893546f703ff292fd262ca2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 57.14285714285714,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 72.72727272727273,
+      "qampari_f1_top5": 88.8888888888889,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "240__wikidata_intersection__dev|pilot_retained|29": {
+    "qid": "240__wikidata_intersection__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "31f4f0d978d0f023f07a83168827d533e6e13554ecac9989efb5b91ee1e14ddd",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 57.14285714285714,
+      "qampari_rec_top5": 80.0,
+      "qampari_f1": 72.72727272727273,
+      "qampari_f1_top5": 88.8888888888889,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "240__wikidata_intersection__dev|gtr_top5|17": {
+    "qid": "240__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "70aacc4cc6e5e83e12f773f1230346ad887d26d2f0b6d44426612fd255722123",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "240__wikidata_intersection__dev|gtr_top5|29": {
+    "qid": "240__wikidata_intersection__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "889d52bbc13f07dd98b099d8c52d444d4654b1d5908828e2c2e805475cb5cb43",
+    "valid": true,
+    "metrics": {
+      "num_preds": 1.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "240__wikidata_intersection__dev|probe_0|17": {
+    "qid": "240__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "d9d88ce0e15633bd24ecec19006fc19e3c9d998de8e9122a1c2184d385c28cec",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 71.42857142857143,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333333,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "240__wikidata_intersection__dev|probe_0|29": {
+    "qid": "240__wikidata_intersection__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "b5704e990fab3ef86670a011b5d3a72ba8a20469eb0a70f99ae5a12f85940bf0",
+    "valid": true,
+    "metrics": {
+      "num_preds": 5.0,
+      "qampari_prec": 100.0,
+      "qampari_rec": 71.42857142857143,
+      "qampari_rec_top5": 100.0,
+      "qampari_f1": 83.33333333333333,
+      "qampari_f1_top5": 100.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "488__wikitables_simple__dev|pilot_retained|17": {
+    "qid": "488__wikitables_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "bb4cf2d6d12c9003a5aa783ada069df444dfbaff7d9f7793ed44013065f3a830",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 4.3478260869565215,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.692307692307692,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "488__wikitables_simple__dev|pilot_retained|29": {
+    "qid": "488__wikitables_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "13c393562164d60bbf77705c9ed601a6fa846bf114fa9bdf03b138d0ef5f6fbe",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 4.3478260869565215,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.692307692307692,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "488__wikitables_simple__dev|gtr_top5|17": {
+    "qid": "488__wikitables_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "7ad5375fe877b4c71c78fa42ac4a52760920dcd37495cafa6bf6066a90e24245",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 4.3478260869565215,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.692307692307692,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "488__wikitables_simple__dev|gtr_top5|29": {
+    "qid": "488__wikitables_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "8ff24cbeead80b2ef9b6ef8ae0be07a746311770d1182468c89a2b2b192c43db",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 33.33333333333333,
+      "qampari_rec": 4.3478260869565215,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 7.692307692307692,
+      "qampari_f1_top5": 25.0,
+      "citation_rec": 0.0,
+      "citation_prec": 0.0,
+      "utility": 0.0
+    }
+  },
+  "488__wikitables_simple__dev|probe_0|17": {
+    "qid": "488__wikitables_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      17,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "ab35ddd3fd4f452da2e4838768e2f5ff60a54edb78288889d0b82aab52a548c5",
+    "valid": true,
+    "metrics": {
+      "num_preds": 8.0,
+      "qampari_prec": 12.5,
+      "qampari_rec": 4.3478260869565215,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.451612903225806,
+      "qampari_f1_top5": 15.384615384615385,
+      "citation_rec": 25.0,
+      "citation_prec": 25.0,
+      "utility": 19.047619047619047
+    }
+  },
+  "488__wikitables_simple__dev|probe_0|29": {
+    "qid": "488__wikitables_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      17,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "7b32ee2a95cf2f513d8bc847d5b43fb0ae169c14e1ce3c81f7622759da45d6e2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 8.0,
+      "qampari_prec": 12.5,
+      "qampari_rec": 4.3478260869565215,
+      "qampari_rec_top5": 20.0,
+      "qampari_f1": 6.451612903225806,
+      "qampari_f1_top5": 15.384615384615385,
+      "citation_rec": 25.0,
+      "citation_prec": 25.0,
+      "utility": 19.047619047619047
+    }
+  },
+  "754__wikidata_simple__dev|pilot_retained|17": {
+    "qid": "754__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "436cc54e58f0819526f976d2eee8529742120ec2bf28b056dd51b78df052d677",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "754__wikidata_simple__dev|pilot_retained|29": {
+    "qid": "754__wikidata_simple__dev",
+    "tag": "pilot_retained",
+    "selected": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "88ad61642f1bf0e11b38d2d4f562e52f8cf0e52dd5081e39658d0b27c34315d2",
+    "valid": true,
+    "metrics": {
+      "num_preds": 4.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "754__wikidata_simple__dev|gtr_top5|17": {
+    "qid": "754__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "99a0332f674da6cb4cfb753cda4f953a37a5bb2b69f00107d0bdd2eba7c9de89",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "754__wikidata_simple__dev|gtr_top5|29": {
+    "qid": "754__wikidata_simple__dev",
+    "tag": "gtr_top5",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "632eab8704c90f4df4fc110fffe5365c6bbbf37de5b8b3768d773b84096501fc",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "754__wikidata_simple__dev|probe_0|17": {
+    "qid": "754__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      17
+    ],
+    "seed": 17,
+    "role": "B",
+    "draw_id": "5887de5d751c1ffc3fcbfc20ee29509d89076edf0976cc8c8afde5ae5d12707f",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  },
+  "754__wikidata_simple__dev|probe_0|29": {
+    "qid": "754__wikidata_simple__dev",
+    "tag": "probe_0",
+    "selected": [
+      0,
+      1,
+      2,
+      3,
+      17
+    ],
+    "seed": 29,
+    "role": "B",
+    "draw_id": "e2854e4d098439847b5f7ef1b43126c17b68b0d7790cdc91724ca233583213bf",
+    "valid": true,
+    "metrics": {
+      "num_preds": 3.0,
+      "qampari_prec": 0.0,
+      "qampari_rec": 0.0,
+      "qampari_rec_top5": 0.0,
+      "qampari_f1": 0.0,
+      "qampari_f1_top5": 0.0,
+      "citation_rec": 100.0,
+      "citation_prec": 100.0,
+      "utility": 0.0
+    }
+  }
+}

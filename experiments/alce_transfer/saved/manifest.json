@@ -1,0 +1,46 @@
+{
+  "files": {
+    "calibration_policy.json": "850125b02cb210ba237de166788b8f66f27011efd77523756f3ddd49c71d1293",
+    "calibration_proposals.json": "234af7b33911876903472d82b787274c4208793181afe21e087cecf5f040d2ef",
+    "calibration_scores.json": "5800391f3115f2466b4263ca2e8763bb64a76d21521f2af2958526be39c91775",
+    "evaluation_A_scores.json": "597fc665b12cc38e3fe9dcf87b4495aef98e2fcd80f6e04d2045f53803ce1438",
+    "evaluation_B_scores.json": "f4254e1879623e93c3e63fa760496164a4b92316afa67a1e6135f889a531fe2f",
+    "evaluation_predictions.json": "268acf7c3d24fa99b73b345f5e4876b898ced933479820cd0887a76e28938646",
+    "evaluator_gate.json": "c76fc942061993d0daf195bacf0684a88c17030928916e7a589112ca24450e74",
+    "models.json": "031344a2db48801a5981d60bd9b725407b6e4828a986731f990212d8488cd055",
+    "pilot_stability.json": "c6b8f031b33a032090a3a539066fa178c4a04876004f3bd042b5b411ed289ad3",
+    "qualification.json": "7e9971f4286887341bfd6621d8bdfed3d4dac205c180409a52839bdbaedf7fac",
+    "result.json": "9f831c7e761b5d727b02285d897d60f27de8f77ed2453fe046931b8b9eb6bd77",
+    "selection_freeze.json": "a9190af66ff4bf00b0d4808d4eeac9b247c7557c27b68e60d1effe1259f1c73e",
+    "source_scores.json": "261829dbe2c1fc5efdbb494ae22ff30c1416e83e0e2199af103328873ab8bd3a",
+    "stability_A_scores.json": "c51958f2160dcffbd828e6ddb7cdb3ca424f06e9b17548cd7ef8c4af7bb3d452",
+    "stability_B_scores.json": "8dbcd3bacfbb51591285210a54ae0f41a39b6ec63bf56ac1478564f41b8f1d7f",
+    "training_labels.json": "4ce3762e68f7a73df0c3150db58269dbfef2239daa7d2f1f8ee97626c76237d4"
+  },
+  "prepared_files": {
+    "features.npz": {
+      "bytes": 20182430,
+      "sha256": "5ccea35d294392d724c77ff66b63eae2e4ec08344adc9ae9d31efcfee6fe65c8"
+    },
+    "freeze.json": {
+      "bytes": 13645,
+      "sha256": "3fe0711febc280132a2dcb4abcd9e6cf89d367592bf6ecb03d581b242835f1a2"
+    },
+    "questions.json": {
+      "bytes": 34984810,
+      "sha256": "e716487900c20e32e97a054da1d0f1342b835d37937128ee0123732de65d5d9b"
+    },
+    "references_calibration.json": {
+      "bytes": 42665,
+      "sha256": "531e902c699ac8d7eda6981716548fc29d69ed800ddcfb17aed1de98490bad6f"
+    },
+    "references_evaluation.json": {
+      "bytes": 104900,
+      "sha256": "ea34468249f6db64d0facd1795a18265d556d765929a52c95f3e87901115d568"
+    },
+    "references_train.json": {
+      "bytes": 164158,
+      "sha256": "a66647fedbf154722c9c368f90d4f7259249e9d054c5e853681b6cf97477eded"
+    }
+  }
+}
