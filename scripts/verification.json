@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "software_tests": 34,
+  "restored_groups": [
+    "hotpot_train",
+    "hotpot_eval",
+    "tokenizers"
+  ],
+  "launched_outside_repository": true,
+  "paths_with_spaces": true,
+  "existing_output_preserved": true,
+  "selection_reproduction": {
+    "passed": true,
+    "questions": 128,
+    "mismatched_questions": [],
+    "compared": "Selected passage indices, method names and both native token counts",
+    "input_sha256": {
+      "pools": "06d256450604d6e01ddeb09c03b16496762640fbe674bf298df6aaffb88e7a47",
+      "features": "fb4c9a549946390b0004750ed8d9153accbcae9beb2d479792bc345f7178fba0",
+      "expected": "11355fd88abc73d1aa850f17a324774e1880b71e2ddb2806ac5ace68a46262e9"
+    },
+    "reader_calls": 0
+  },
+  "reproduction_seconds": 65.766,
+  "reader_calls": 0
+}
