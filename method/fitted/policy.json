@@ -1,0 +1,197 @@
+{
+  "inputs": {
+    "pools.json": "ec91f4c2568a863ac716a13df4505cf0b8fba588a58a385e9eeccf93a8a20daf",
+    "features.json": "a8ae3b9b9616af4b4a973a115d79adc3edac7492951916bdd33fa9bc9632de58",
+    "train_references.json": "5c89e58012f6f943dd2beff8ac9f7f0bdd1950ba895a470ef2e23d9a398eec22",
+    "cohort_freeze.json": "4dd1aca93220dc9b36024ecf4a0635e65feadd520cb84e411ad840a1f82876e6",
+    "validation_references.json": "c88f1fac428d97a183909eb6b0139593bfdab04dccdcfd2dec88c0f1f1f20647"
+  },
+  "tokenizer_sha256": [
+    "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539",
+    "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+  ],
+  "thresholds": {
+    "fusion_scalar": 0.15,
+    "independent": 0.3
+  },
+  "validation": {
+    "fusion_scalar": {
+      "selected": {
+        "threshold": 0.15,
+        "wins": 19,
+        "losses": 2,
+        "edits": 103,
+        "net": 17
+      },
+      "sweep": [
+        {
+          "threshold": 0.0,
+          "wins": 19,
+          "losses": 4,
+          "edits": 123,
+          "net": 15
+        },
+        {
+          "threshold": 0.05,
+          "wins": 19,
+          "losses": 3,
+          "edits": 117,
+          "net": 16
+        },
+        {
+          "threshold": 0.1,
+          "wins": 19,
+          "losses": 3,
+          "edits": 110,
+          "net": 16
+        },
+        {
+          "threshold": 0.15,
+          "wins": 19,
+          "losses": 2,
+          "edits": 103,
+          "net": 17
+        },
+        {
+          "threshold": 0.2,
+          "wins": 17,
+          "losses": 2,
+          "edits": 88,
+          "net": 15
+        },
+        {
+          "threshold": 0.3,
+          "wins": 15,
+          "losses": 2,
+          "edits": 63,
+          "net": 13
+        },
+        {
+          "threshold": 0.5,
+          "wins": 12,
+          "losses": 0,
+          "edits": 27,
+          "net": 12
+        },
+        {
+          "threshold": 0.75,
+          "wins": 3,
+          "losses": 0,
+          "edits": 5,
+          "net": 3
+        },
+        {
+          "threshold": 1.0,
+          "wins": 0,
+          "losses": 0,
+          "edits": 0,
+          "net": 0
+        },
+        {
+          "threshold": null,
+          "wins": 0,
+          "losses": 0,
+          "edits": 0,
+          "net": 0
+        }
+      ]
+    },
+    "independent": {
+      "selected": {
+        "threshold": 0.3,
+        "wins": 2,
+        "losses": 0,
+        "edits": 3,
+        "net": 2
+      },
+      "sweep": [
+        {
+          "threshold": 0.0,
+          "wins": 2,
+          "losses": 18,
+          "edits": 44,
+          "net": -16
+        },
+        {
+          "threshold": 0.05,
+          "wins": 2,
+          "losses": 13,
+          "edits": 33,
+          "net": -11
+        },
+        {
+          "threshold": 0.1,
+          "wins": 2,
+          "losses": 6,
+          "edits": 22,
+          "net": -4
+        },
+        {
+          "threshold": 0.15,
+          "wins": 2,
+          "losses": 5,
+          "edits": 14,
+          "net": -3
+        },
+        {
+          "threshold": 0.2,
+          "wins": 2,
+          "losses": 4,
+          "edits": 9,
+          "net": -2
+        },
+        {
+          "threshold": 0.3,
+          "wins": 2,
+          "losses": 0,
+          "edits": 3,
+          "net": 2
+        },
+        {
+          "threshold": 0.5,
+          "wins": 0,
+          "losses": 0,
+          "edits": 0,
+          "net": 0
+        },
+        {
+          "threshold": 0.75,
+          "wins": 0,
+          "losses": 0,
+          "edits": 0,
+          "net": 0
+        },
+        {
+          "threshold": 1.0,
+          "wins": 0,
+          "losses": 0,
+          "edits": 0,
+          "net": 0
+        },
+        {
+          "threshold": null,
+          "wins": 0,
+          "losses": 0,
+          "edits": 0,
+          "net": 0
+        }
+      ]
+    }
+  },
+  "train_questions": 512,
+  "validation_questions": 128,
+  "training_actions_labelled": 33673,
+  "training_rows_used": 4159,
+  "validation_actions": 8392,
+  "reader_calls": 0,
+  "new_indexing": 0,
+  "paid_api_calls": 0,
+  "wall_seconds": 246.516,
+  "files": {
+    "fusion_scalar.npz": "7489c28c7456b6045ea4bb89495baeb0bd8d4eb29924e7eda992418b477b1746",
+    "fusion_scalar.npz.json": "4d72cec97537ef6473e520818e9e8faa700c6bf4fd435145e10a68d650d36727",
+    "independent.npz": "62b939d711ece00921f82c39f21b2af11dff9b10af3cc5de60cc4fcf3e7a7dbf",
+    "independent.npz.json": "7db9421d7feea731d5a1272591c7285fdb74bdb27201ee7e4d3d735fe2cf3ee0"
+  },
+  "source": "37099bd8b5fbcb551b8173add2b48dc0b5e15774604f06c5948a199408d0a82b"
+}

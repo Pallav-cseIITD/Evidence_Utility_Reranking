@@ -1,0 +1,52 @@
+{
+  "passed": true,
+  "test": "Full CPU retraining against the saved final models",
+  "train_questions": 512,
+  "validation_questions": 128,
+  "training_actions_labelled": 33673,
+  "training_rows_used": 4159,
+  "validation_actions": 8392,
+  "thresholds": {
+    "fusion_scalar": 0.15,
+    "independent": 0.3
+  },
+  "policy_fields_match": [
+    "inputs",
+    "tokenizer_sha256",
+    "thresholds",
+    "validation",
+    "train_questions",
+    "validation_questions",
+    "training_actions_labelled",
+    "training_rows_used",
+    "validation_actions"
+  ],
+  "maximum_array_absolute_difference": {
+    "fusion_scalar": 0.0,
+    "independent": 0.0
+  },
+  "comparison_tolerance": {
+    "rtol": 1e-12,
+    "atol": 1e-12
+  },
+  "seconds": 230.281,
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5"
+  },
+  "reader_calls": 0,
+  "code_sha256": {
+    "__init__.py": "17fb1beaaa8b59ce2fdd5caf8499d494081f9162be0a4ca69168c34cae03e52b",
+    "check_reproduction.py": "036026a764b47ac6e99aee0c5db3fcb94abb657265f1869dc15f2c1bc35e9f28",
+    "edits.py": "71cd6dc2a983f011cc163f092ecaa64f333f20c7a5b5df513a631760a88b3365",
+    "features.py": "93513905ce39679d06aacaee38a95fe8eb7b56d39db3256f25ee296167f07b0d",
+    "inputs.py": "ca3d58c5ea8472f8d94d19ed95fb5e5af6ae8cba97a666f1e34fec7d15e016fb",
+    "io.py": "82eb8df7784833798e440cbc7f1e1cdf0a1d592532e741afcc9a06404cf339cf",
+    "model.py": "5f47fe73b5daca361c29b04358bf32daf5c400c42e9fc3d0e2213dd0abcc0b34",
+    "policy.py": "82b7aa5d64d9b921caacf46af043d8170b3db8eeefd81bf24c92638ca1bd275d",
+    "sampling.py": "dba98c82fd5331aa3f5a67af7f2b7c164414ffee2eb63a9176f1f985bdff0406",
+    "select.py": "85ea665d668d0a49d1128785501aca8c39414f3ef993bd9ad311b049bc03d9db",
+    "support.py": "c17b8818644801f7c6864ee39c94087e9a4259cc8a767dc724d1ed755ace39a3",
+    "train.py": "b93a74b2c3745c7dafde850f489bf1a1537293c3449511cb533074bcff420d9c"
+  }
+}
