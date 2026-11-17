@@ -1,0 +1,18 @@
+{
+  "experiment": "Final HotpotQA additional reader evaluation",
+  "record_type": "Selected environment fields from the completed run",
+  "python": "3.11.18",
+  "operating_environment": "Linux inside an Ubuntu 22.04 container",
+  "glibc": "2.35",
+  "gpu": "NVIDIA A100-PCIE-40GB",
+  "torch_cuda_build": "11.8",
+  "reader_weight_format": "torch.bfloat16",
+  "packages": {
+    "torch": "2.6.0+cu118",
+    "transformers": "4.51.3",
+    "accelerate": "1.6.0",
+    "lm-format-enforcer": "0.11.3",
+    "numpy": "2.4.6"
+  },
+  "complete_package_freeze": false
+}
