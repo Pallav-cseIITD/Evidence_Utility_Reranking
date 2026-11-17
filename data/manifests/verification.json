@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "archive_groups": {
+    "hotpot_train": {
+      "files": 5,
+      "bytes": 511610386
+    },
+    "hotpot_eval": {
+      "files": 4,
+      "bytes": 85444042
+    },
+    "alce_transfer": {
+      "files": 6,
+      "bytes": 55492608
+    },
+    "tokenizers": {
+      "files": 4,
+      "bytes": 34130008
+    }
+  },
+  "restored_files": 19,
+  "selector_reproduction": {
+    "passed": true,
+    "questions": 128,
+    "mismatched_questions": [],
+    "compared": "Selected passage indices, method names and both native token counts",
+    "input_sha256": {
+      "pools": "06d256450604d6e01ddeb09c03b16496762640fbe674bf298df6aaffb88e7a47",
+      "features": "fb4c9a549946390b0004750ed8d9153accbcae9beb2d479792bc345f7178fba0",
+      "expected": "11355fd88abc73d1aa850f17a324774e1880b71e2ddb2806ac5ace68a46262e9"
+    },
+    "reader_calls": 0
+  },
+  "hotpot_split_counts": {
+    "train": 512,
+    "validation": 128,
+    "evaluation": 128,
+    "earlier_scaling_test": 128
+  },
+  "alce_split_counts": {
+    "train": 128,
+    "calibration": 40,
+    "evaluation": 100
+  },
+  "full_training_input_hashes_match": true,
+  "reader_calls": 0,
+  "seconds": 50.969,
+  "python": "3.12.14"
+}

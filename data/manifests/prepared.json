@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "release_tag": "stage3-data-v1",
+  "groups": {
+    "hotpot_train": {
+      "filename": "hotpot_train_v1.tar.gz",
+      "bytes": 154001367,
+      "sha256": "b8282358ba003a93d76ab0e34efc25db85642be62cbe3260978818d5bae964b0",
+      "destination": "prepared/hotpot_train",
+      "files": {
+        "cohort_freeze.json": {
+          "bytes": 140814,
+          "sha256": "4dd1aca93220dc9b36024ecf4a0635e65feadd520cb84e411ad840a1f82876e6"
+        },
+        "pools.json": {
+          "bytes": 62832726,
+          "sha256": "ec91f4c2568a863ac716a13df4505cf0b8fba588a58a385e9eeccf93a8a20daf"
+        },
+        "features.json": {
+          "bytes": 444032601,
+          "sha256": "a8ae3b9b9616af4b4a973a115d79adc3edac7492951916bdd33fa9bc9632de58"
+        },
+        "train_references.json": {
+          "bytes": 3677410,
+          "sha256": "5c89e58012f6f943dd2beff8ac9f7f0bdd1950ba895a470ef2e23d9a398eec22"
+        },
+        "validation_references.json": {
+          "bytes": 926835,
+          "sha256": "c88f1fac428d97a183909eb6b0139593bfdab04dccdcfd2dec88c0f1f1f20647"
+        }
+      }
+    },
+    "hotpot_eval": {
+      "filename": "hotpot_eval_v1.tar.gz",
+      "bytes": 25702866,
+      "sha256": "071a6b74b809ccdfa962c5cf70eefaf2198a7f18a0e27c676152c6c23068289a",
+      "destination": "prepared/hotpot_eval",
+      "files": {
+        "pools.json": {
+          "bytes": 10352329,
+          "sha256": "06d256450604d6e01ddeb09c03b16496762640fbe674bf298df6aaffb88e7a47"
+        },
+        "features.json": {
+          "bytes": 74004930,
+          "sha256": "fb4c9a549946390b0004750ed8d9153accbcae9beb2d479792bc345f7178fba0"
+        },
+        "references.json": {
+          "bytes": 894241,
+          "sha256": "5bf275e8f7500b09a1838f50cb4e5f6d1edd8be12b6414d97e7423bcf0f4096d"
+        },
+        "selections.json": {
+          "bytes": 192542,
+          "sha256": "11355fd88abc73d1aa850f17a324774e1880b71e2ddb2806ac5ace68a46262e9"
+        }
+      }
+    },
+    "alce_transfer": {
+      "filename": "alce_transfer_v1.tar.gz",
+      "bytes": 24569918,
+      "sha256": "71b935f9257b0bd0bab4ce37d1d4a03f7787e0662933b3100577b501125a6048",
+      "destination": "prepared/alce_transfer",
+      "files": {
+        "features.npz": {
+          "bytes": 20182430,
+          "sha256": "5ccea35d294392d724c77ff66b63eae2e4ec08344adc9ae9d31efcfee6fe65c8"
+        },
+        "freeze.json": {
+          "bytes": 13645,
+          "sha256": "3fe0711febc280132a2dcb4abcd9e6cf89d367592bf6ecb03d581b242835f1a2"
+        },
+        "questions.json": {
+          "bytes": 34984810,
+          "sha256": "e716487900c20e32e97a054da1d0f1342b835d37937128ee0123732de65d5d9b"
+        },
+        "references_calibration.json": {
+          "bytes": 42665,
+          "sha256": "531e902c699ac8d7eda6981716548fc29d69ed800ddcfb17aed1de98490bad6f"
+        },
+        "references_evaluation.json": {
+          "bytes": 104900,
+          "sha256": "ea34468249f6db64d0facd1795a18265d556d765929a52c95f3e87901115d568"
+        },
+        "references_train.json": {
+          "bytes": 164158,
+          "sha256": "a66647fedbf154722c9c368f90d4f7259249e9d054c5e853681b6cf97477eded"
+        }
+      }
+    },
+    "tokenizers": {
+      "filename": "tokenizers_v1.tar.gz",
+      "bytes": 7539632,
+      "sha256": "78e0ffd69ba9b37b2a55e3216a649a7044a6e238f2189d718ff68e3247068302",
+      "destination": "tokenizers",
+      "files": {
+        "qwen25.json": {
+          "bytes": 7031645,
+          "sha256": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539"
+        },
+        "qwen3.json": {
+          "bytes": 11422654,
+          "sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+        },
+        "qwen14.json": {
+          "bytes": 11422654,
+          "sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+        },
+        "phi4.json": {
+          "bytes": 4253055,
+          "sha256": "9f38d05d9d25756bb2f181ab5a0cebcd59e638df10336fc7ed1010f7296d0298"
+        }
+      }
+    }
+  }
+}

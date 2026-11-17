@@ -1,0 +1,83 @@
+{
+  "hotpotqa": {
+    "project": "https://hotpotqa.github.io/",
+    "corpus": "https://huggingface.co/datasets/BeIR/hotpotqa",
+    "assets": {
+      "dev": {
+        "name": "dev.parquet",
+        "url": "https://huggingface.co/datasets/hotpotqa/hotpot_qa/resolve/1908d6afbbead072334abe2965f91bd2709910ab/distractor/validation-00000-of-00001.parquet",
+        "bytes": 27452575,
+        "sha256": "c20b638ca82b21d04fe12e14ff417ad05153d4d215a65de54497fca4e972f7c6"
+      },
+      "bm25": {
+        "name": "bm25.trec",
+        "url": "https://huggingface.co/datasets/orionweller/ir-runs/resolve/89768918c96d014e526bf37a3a885f33d7c90206/bm25/run.beir-v1.0.0-hotpotqa-flat.trec",
+        "bytes": 435476301,
+        "sha256": "8f6e86afb8fd7ffd1aff59522c92612108f111c6c2a65de771d77917a2f46e3c"
+      },
+      "corpus": {
+        "name": "corpus.parquet",
+        "url": "https://huggingface.co/datasets/BeIR/hotpotqa/resolve/a7e8bab212f5a89f9be1bc9b654aa6dfa317f32b/corpus/corpus-00000-of-00001.parquet",
+        "bytes": 975977704,
+        "sha256": "23975eb1ce371778a38b49a4cc0ca23998b4e1979ee31d02b3032a3e0cd5d62e"
+      },
+      "dense_index": {
+        "name": "faiss-flat.beir-v1.0.0-hotpotqa.bge-base-en-v1.5.20240107.tar.gz",
+        "url": "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-hotpotqa.bge-base-en-v1.5.20240107.tar.gz",
+        "bytes": 14932298529,
+        "md5": "d2c08665e8cd750bd06ceb7d23897c94"
+      }
+    },
+    "dense_encoder": {
+      "id": "BAAI/bge-base-en-v1.5",
+      "revision": "a5beb1e3e68b9ab74eb54cfd186867f64f240e1a",
+      "query_prefix": "Represent this sentence for searching relevant passages: "
+    },
+    "retrieval_depth": 100,
+    "rrf_constant": 60,
+    "candidate_pool_size": 50,
+    "corpus_documents": 5233329
+  },
+  "alce_qampari": {
+    "project": "https://github.com/princeton-nlp/ALCE",
+    "original_benchmark": "https://github.com/samsam3232/qampari",
+    "scoring_code_revision": "246c476a4edfc564266b7346b6e29ef4861ae937",
+    "scoring_code_sha256": {
+      "eval.py": "e0f63bf865cacc64d7390fc62669c82b2653b1628f40051de0efdf5518064091",
+      "utils.py": "92e6900b5350f7da4dc179f3d9f498f73d976377a412e8c244db8339ad7976b9"
+    },
+    "data_archive_sha256": "eda837bf659a91b3648dc6e7ab6b17197664d93593857e8fdf3800b6aa6a98f0",
+    "archive_member": "ALCE-data/qampari_eval_gtr_top100.json",
+    "retrieval": "Official GTR top 100 release, retaining the first 50 raw passages"
+  },
+  "tokenizers": [
+    {
+      "filename": "qwen25.json",
+      "model": "Qwen/Qwen2.5-7B-Instruct",
+      "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+      "url": "https://huggingface.co/Qwen/Qwen2.5-7B-Instruct/resolve/a09a35458c702b33eeacc393d103063234e8bc28/tokenizer.json",
+      "sha256": "c0382117ea329cdf097041132f6d735924b697924d6f6fc3945713e96ce87539"
+    },
+    {
+      "filename": "qwen3.json",
+      "model": "Qwen/Qwen3-8B",
+      "revision": "b968826d9c46dd6066d109eabc6255188de91218",
+      "url": "https://huggingface.co/Qwen/Qwen3-8B/resolve/b968826d9c46dd6066d109eabc6255188de91218/tokenizer.json",
+      "sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+    },
+    {
+      "filename": "qwen14.json",
+      "model": "Qwen/Qwen3-14B",
+      "revision": "40c069824f4251a91eefaf281ebe4c544efd3e18",
+      "url": "https://huggingface.co/Qwen/Qwen3-14B/resolve/40c069824f4251a91eefaf281ebe4c544efd3e18/tokenizer.json",
+      "sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+    },
+    {
+      "filename": "phi4.json",
+      "model": "microsoft/phi-4",
+      "revision": "2db69c1c3e91a05d2c64a3185acfbaf36f744e25",
+      "url": "https://huggingface.co/microsoft/phi-4/resolve/2db69c1c3e91a05d2c64a3185acfbaf36f744e25/tokenizer.json",
+      "sha256": "9f38d05d9d25756bb2f181ab5a0cebcd59e638df10336fc7ed1010f7296d0298"
+    }
+  ]
+}
