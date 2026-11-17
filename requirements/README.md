@@ -10,7 +10,7 @@ Use separate environments for CPU analysis and GPU reader evaluation. Run the co
 
 ## CPU environment
 
-Use Python 3.11 or 3.12. The reorganized component checks were run with NumPy 2.3.5.
+Use Python 3.11 or 3.12. The reorganized CPU checks use NumPy 2.3.5. CPU passage selection uses tokenizers 0.21.4, matching the original HotpotQA preparation environment; the later GPU reader setup specifies tokenizers 0.21.1 separately.
 
 ```bash
 python3 -m venv .venv-analysis
@@ -22,7 +22,7 @@ python3 -m pip check
 After the method and tests folders are available:
 
 ```bash
-python3 -m unittest discover -s tests -v
+python3 -m unittest discover -s method/tests -v
 ```
 
 CPU analysis uses prepared passage pools, features, labels or saved reader responses. It does not rebuild the retrieval index or generate new answers. The data preparation and experiment instructions specify which assets each command needs.
