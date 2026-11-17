@@ -117,3 +117,7 @@ requirements/  CPU and GPU dependency records
 ```
 
 Large prepared inputs belong in GitHub Release assets; the local `release_assets/` staging directory is not a source repository folder. Model weights, full retrieval indexes, private review notes and machine configuration are excluded.
+
+## AI usage declaration
+
+I took the help of AI tools, specifically ChatGPT, for assistance with organizing this repository, improving documentation and navigation, and creating the workflow graph summarizing the research journey. They also supported experiment preparation and documentation of saved results. I manually reviewed the designated evidence examples and made the project decisions reflected in this submission.
